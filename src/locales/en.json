@@ -1,0 +1,15 @@
+{
+    "LanguageSwitcher": {
+        "selectLanguage": "Select language"
+    },
+    "Home": {
+        "title": "Welcome to our Website",
+        "description": "Select your preferred language using the language switcher in the top right corner."
+    },
+    "ThemeToggle": {
+        "toggleTheme": "Toggle Theme",
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+    }
+}

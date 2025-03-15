@@ -1,0 +1,15 @@
+{
+    "LanguageSwitcher": {
+        "selectLanguage": "Dil seçin"
+    },
+    "Home": {
+        "title": "Web Sitemize Hoş Geldiniz",
+        "description": "Sağ üst köşedeki dil değiştiriciyi kullanarak tercih ettiğiniz dili seçin."
+    },
+    "ThemeToggle": {
+        "toggleTheme": "Temayı Değiştir",
+        "light": "Açık",
+        "dark": "Koyu",
+        "system": "Sistem"
+    }
+}
