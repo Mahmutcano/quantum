@@ -1,15 +1,95 @@
 {
-    "LanguageSwitcher": {
-        "selectLanguage": "Select language"
+    "Navbar": {
+      "logo": "Company Name",
+      "home": "Home",
+      "about": "About Us",
+      "program": "Our Program",
+      "vision": "Our Vision",
+      "contact": "Contact Us"
     },
-    "Home": {
-        "title": "Welcome to our Website",
-        "description": "Select your preferred language using the language switcher in the top right corner."
+    "Hero": {
+      "title": "Welcome to Our Program",
+      "subtitle": "We provide innovative solutions to help you achieve your goals and transform your future.",
+      "learnMore": "Learn More",
+      "contactUs": "Contact Us",
+      "imageAlt": "Hero image showing our program in action"
+    },
+    "Features": {
+      "title": "What We Offer",
+      "subtitle": "Discover the key features of our comprehensive program",
+      "feature1": {
+        "title": "Quality Education",
+        "description": "Our program is designed by experts to provide you with the highest quality education and training."
+      },
+      "feature2": {
+        "title": "Expert Mentors",
+        "description": "Learn from industry professionals who will guide you through every step of your journey."
+      },
+      "feature3": {
+        "title": "Recognized Certification",
+        "description": "Receive a globally recognized certification upon successful completion of the program."
+      }
+    },
+    "AboutPreview": {
+      "title": "About Our Program",
+      "description": "Our program is designed to help you develop the skills and knowledge needed to succeed in today's competitive environment.",
+      "point1": "Comprehensive curriculum covering all essential topics",
+      "point2": "Hands-on practical training with real-world applications",
+      "point3": "Flexible learning options to fit your schedule",
+      "learnMore": "Learn More About Us",
+      "imageAlt": "Students participating in our program"
+    },
+    "VisionPreview": {
+      "title": "Our Vision",
+      "description": "We envision a future where everyone has access to quality education and opportunities for growth. Download our brochure to learn more about our vision and mission.",
+      "downloadBrochure": "Download Brochure"
+    },
+    "Contact": {
+      "title": "Get in Touch",
+      "subtitle": "Have questions? We're here to help. Reach out to us using the form below.",
+      "formTitle": "Send us a message",
+      "formDescription": "Fill out the form and we'll get back to you as soon as possible.",
+      "nameLabel": "Name",
+      "namePlaceholder": "Enter your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Enter your email",
+      "subjectLabel": "Subject",
+      "subjectPlaceholder": "What is this regarding?",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Enter your message here...",
+      "submitButton": "Send Message",
+      "contactInfo": "Contact Information",
+      "addressTitle": "Address",
+      "address": "123 Main Street, Istanbul, Turkey",
+      "emailTitle": "Email",
+      "phoneTitle": "Phone",
+      "whatsappButton": "Contact via WhatsApp"
+    },
+    "Footer": {
+      "logo": "Company Name",
+      "description": "We are dedicated to providing quality education and training programs to help you achieve your goals.",
+      "quickLinks": "Quick Links",
+      "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "program": "Our Program",
+        "vision": "Our Vision",
+        "contact": "Contact Us"
+      },
+      "contactInfo": "Contact Info",
+      "address": "123 Main Street, Istanbul, Turkey",
+      "followUs": "Follow Us",
+      "copyright": "All rights reserved."
+    },
+    "LanguageSwitcher": {
+      "selectLanguage": "Select language"
     },
     "ThemeToggle": {
-        "toggleTheme": "Toggle Theme",
-        "light": "Light",
-        "dark": "Dark",
-        "system": "System"
+      "toggleTheme": "Toggle theme",
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
     }
-}
+  }
+  
+  

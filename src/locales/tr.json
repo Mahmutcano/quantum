@@ -1,15 +1,95 @@
 {
-    "LanguageSwitcher": {
-        "selectLanguage": "Dil seçin"
+    "Navbar": {
+      "logo": "Şirket Adı",
+      "home": "Ana Sayfa",
+      "about": "Hakkımızda",
+      "program": "Programımız",
+      "vision": "Vizyonumuz",
+      "contact": "Bize Ulaşın"
     },
-    "Home": {
-        "title": "Web Sitemize Hoş Geldiniz",
-        "description": "Sağ üst köşedeki dil değiştiriciyi kullanarak tercih ettiğiniz dili seçin."
+    "Hero": {
+      "title": "Programımıza Hoş Geldiniz",
+      "subtitle": "Hedeflerinize ulaşmanıza ve geleceğinizi dönüştürmenize yardımcı olacak yenilikçi çözümler sunuyoruz.",
+      "learnMore": "Daha Fazla Bilgi",
+      "contactUs": "Bize Ulaşın",
+      "imageAlt": "Programımızı gösteren ana görsel"
+    },
+    "Features": {
+      "title": "Neler Sunuyoruz",
+      "subtitle": "Kapsamlı programımızın temel özelliklerini keşfedin",
+      "feature1": {
+        "title": "Kaliteli Eğitim",
+        "description": "Programımız, size en yüksek kalitede eğitim ve öğretim sağlamak için uzmanlar tarafından tasarlanmıştır."
+      },
+      "feature2": {
+        "title": "Uzman Mentorlar",
+        "description": "Yolculuğunuzun her adımında size rehberlik edecek sektör profesyonellerinden öğrenin."
+      },
+      "feature3": {
+        "title": "Tanınmış Sertifika",
+        "description": "Programı başarıyla tamamladığınızda dünya çapında tanınan bir sertifika alın."
+      }
+    },
+    "AboutPreview": {
+      "title": "Programımız Hakkında",
+      "description": "Programımız, günümüzün rekabetçi ortamında başarılı olmanız için gereken beceri ve bilgileri geliştirmenize yardımcı olmak üzere tasarlanmıştır.",
+      "point1": "Tüm temel konuları kapsayan kapsamlı müfredat",
+      "point2": "Gerçek dünya uygulamalarıyla uygulamalı pratik eğitim",
+      "point3": "Programınıza uygun esnek öğrenme seçenekleri",
+      "learnMore": "Hakkımızda Daha Fazla Bilgi",
+      "imageAlt": "Programımıza katılan öğrenciler"
+    },
+    "VisionPreview": {
+      "title": "Vizyonumuz",
+      "description": "Herkesin kaliteli eğitime ve gelişim fırsatlarına erişebildiği bir gelecek hayal ediyoruz. Vizyonumuz ve misyonumuz hakkında daha fazla bilgi edinmek için broşürümüzü indirin.",
+      "downloadBrochure": "Broşürü İndir"
+    },
+    "Contact": {
+      "title": "İletişime Geçin",
+      "subtitle": "Sorularınız mı var? Yardımcı olmak için buradayız. Aşağıdaki formu kullanarak bize ulaşın.",
+      "formTitle": "Bize mesaj gönderin",
+      "formDescription": "Formu doldurun, en kısa sürede size geri döneceğiz.",
+      "nameLabel": "İsim",
+      "namePlaceholder": "İsminizi girin",
+      "emailLabel": "E-posta",
+      "emailPlaceholder": "E-posta adresinizi girin",
+      "subjectLabel": "Konu",
+      "subjectPlaceholder": "Bu ne hakkında?",
+      "messageLabel": "Mesaj",
+      "messagePlaceholder": "Mesajınızı buraya yazın...",
+      "submitButton": "Mesaj Gönder",
+      "contactInfo": "İletişim Bilgileri",
+      "addressTitle": "Adres",
+      "address": "Ana Cadde No:123, İstanbul, Türkiye",
+      "emailTitle": "E-posta",
+      "phoneTitle": "Telefon",
+      "whatsappButton": "WhatsApp ile İletişim"
+    },
+    "Footer": {
+      "logo": "Şirket Adı",
+      "description": "Hedeflerinize ulaşmanıza yardımcı olmak için kaliteli eğitim ve öğretim programları sunmaya kendimizi adadık.",
+      "quickLinks": "Hızlı Bağlantılar",
+      "nav": {
+        "home": "Ana Sayfa",
+        "about": "Hakkımızda",
+        "program": "Programımız",
+        "vision": "Vizyonumuz",
+        "contact": "Bize Ulaşın"
+      },
+      "contactInfo": "İletişim Bilgileri",
+      "address": "Ana Cadde No:123, İstanbul, Türkiye",
+      "followUs": "Bizi Takip Edin",
+      "copyright": "Tüm hakları saklıdır."
+    },
+    "LanguageSwitcher": {
+      "selectLanguage": "Dil seçin"
     },
     "ThemeToggle": {
-        "toggleTheme": "Temayı Değiştir",
-        "light": "Açık",
-        "dark": "Koyu",
-        "system": "Sistem"
+      "toggleTheme": "Tema değiştir",
+      "light": "Açık",
+      "dark": "Koyu",
+      "system": "Sistem"
     }
-}
+  }
+  
+  

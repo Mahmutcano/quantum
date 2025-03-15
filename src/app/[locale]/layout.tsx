@@ -1,10 +1,12 @@
 import { NextIntlClientProvider, hasLocale } from 'next-intl';
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import "./globals.css";
+import "../globals.css";
 import { notFound } from 'next/navigation';
 import { routing } from '@/libs/i18nNavigation';
 import { ThemeProvider } from '@/components/provider/theme-provider';
+import { Navbar } from '@/components/common/navbar';
+import { Footer } from '@/components/common/footer';
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -36,7 +38,7 @@ export default async function LocaleLayout({
   }
 
   return (
-    <html lang={locale} suppressHydrationWarning>
+    <html lang={locale} suppressHydrationWarning dir="ltr">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
@@ -47,7 +49,11 @@ export default async function LocaleLayout({
             enableSystem
             disableTransitionOnChange
           >
-            {children}
+            <div className="flex min-h-screen flex-col">
+              <Navbar />
+              <div className="flex-1">{children}</div>
+              <Footer />
+            </div>
           </ThemeProvider>
         </NextIntlClientProvider>
       </body>
