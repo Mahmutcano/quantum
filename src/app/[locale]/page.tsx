@@ -4,16 +4,24 @@ import { FeaturesSection } from "@/components/common/features-sections";
 import { HeroSection } from "@/components/common/hero-sections";
 import { VisionPreviewSection } from "@/components/common/vision-preview-section";
 
-
 export default function Home() {
   return (
     <main>
-      <HeroSection />
-      <FeaturesSection />
-      <AboutPreviewSection />
-      <VisionPreviewSection />
-      <ContactSection />
+      <section id="home">
+        <HeroSection />
+      </section>
+      <section id="features">
+        <FeaturesSection />
+      </section>
+      <section id="about">
+        <AboutPreviewSection />
+      </section>
+      <section id="vision">
+        <VisionPreviewSection />
+      </section>
+      <section id="contact">
+        <ContactSection />
+      </section>
     </main>
-  )
+  );
 }
-

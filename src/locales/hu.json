@@ -1,0 +1,122 @@
+{
+    "Metadata": {
+      "title": "Quantum Trade Limited - megbízható befektetési partnere",
+      "description": "A Quantum Trade Limited innovatív befektetési és tanácsadási megoldásokat kínál a pénzügyi céljainak elérése érdekében."
+    },
+    "Navbar": {
+      "logo": "Társaság neve",
+      "home": "Otthon",
+      "about": "Rólunk",
+      "features": "Programunk",
+      "vision": "Látásunk",
+      "contact": "WhatsApp vegye fel velünk a kapcsolatot"
+    },
+    "Hero": {
+      "title": "Magyarország vendégbefektetői tartózkodási program",
+      "subtitle": "Az egyik legolcsóbb tartózkodási program az EU -ban befektetés révén engedélyezi az EU -t.",
+      "learnMore": "Tudjon meg többet",
+      "contactUs": "Vegye fel velünk a kapcsolatot",
+      "imageAlt": "Hős kép, amely a programunkat akcióban mutatja",
+      "downloadBrochure": "Töltse le a brosúrát"
+    },
+    "Features": {
+      "title": "Rólunk",
+      "subtitle": "Tudjon meg többet cégünkről, szakértői csapatunkról és a jövőbeli elképzelésünkről.",
+      "feature1": {
+        "title": "A Quantum Trade Limitedről",
+        "description": "A Quantum Trade Limited a nemzetközi befektetések és tanácsadás területén vezető társaság. "
+      },
+      "feature2": {
+        "title": "Csapatunk",
+        "description": "A Quantum Trade Limited sikere mögött szakértői és szenvedélyes szakemberek csoportja van. "
+      },
+      "feature3": {
+        "title": "Látásunk",
+        "description": "A Quantum Trade Limitednél az etikai értékek, a fenntarthatóság és az ügyfélfókusz képezik üzleti megközelítésünk alapját. "
+      }
+    },
+    "AboutPreview": {
+      "preview1": {
+        "title": "Sprint magyarországi ingatlanfejlesztési és befektetési alap",
+        "description": "Ezt az alapot a magyar könyvvizsgálói hatóság 2024. augusztus 15 -én hagyta jóvá. Az alap 20 évig érvényes, és további 20 évre meghosszabbítható az alapkezelő belátása szerint. ",
+        "point1": "A magyar audit hatóság jóváhagyta",
+        "point2": "20 évig érvényes, további 20 -ra meghosszabbítható",
+        "point3": "Segít a vendégbefektetői vízum megszerzésében",
+        "imageAlt": "Magyarország ingatlanbefektetési alap"
+      },
+      "preview2": {
+        "title": "Miért válassza a Magyarországot?",
+        "description": "Magyarország számos előnyt kínál a befektetők és a külföldi állampolgárok számára, akik lehetőségeket keresnek.",
+        "point1": "Hozzáférés az EU és a Schengeni területhez",
+        "point2": "Egyszerűsített alkalmazási folyamat minimális tartózkodási követelmény nélkül",
+        "point3": "Alacsony társasági adómérték (9% - a legalacsonyabb Európában)",
+        "imageAlt": "A magyar kiválasztásának előnyei"
+      },
+      "preview3": {
+        "title": "Ki jelentkezhet?",
+        "description": "Ahhoz, hogy jogosultak legyenek a magyar befektetői vízumra, a pályázóknak meg kell felelniük a következő kritériumoknak.",
+        "point1": "Nem lehet EU állampolgár",
+        "point2": "Nincs bűnügyi nyilvántartás",
+        "point3": "Minimális beruházás 250 000 euró egy jóváhagyott alapba",
+        "imageAlt": "Jogosultság a magyarországi befektetői vízumhoz"
+      },
+      "learnMore": "Tudjon meg többet"
+    },
+    "VisionPreview": {
+      "title": "Látásunk",
+      "description": "A Quantum Trade Limitednél arra törekszünk, hogy globális vezető szerepet töltsön be a beruházásokban és a tanácsadásban, amelyet az átláthatóság, a megbízhatóság és a fenntartható növekedés vezet. ",
+      "point1": "Innovatív és fenntartható befektetési megoldások biztosítása az ügyfelek értékének maximalizálása érdekében.",
+      "point2": "A technológia és a pénzügyi innovációk kihasználása a befektetési folyamatok hatékonyabbá és hozzáférhetőbbé tétele érdekében.",
+      "point3": "Megbízható tanácsadási platform létrehozása, amely lehetővé teszi a befektetők számára, hogy bizalommal érjék el céljaikat.",
+      "point4": "A hosszú távú partnerségek kiépítése az átláthatóság, az etikai értékek és az ügyfél-központú szolgáltatás alapján.",
+      "point5": "A gazdasági és társadalmi lehetőségekhez való hozzáférés megkönnyítése olyan speciális programok révén, mint a magyar befektetői vízum.",
+      "downloadBrochure": "Töltse le a brosúrát"
+    },
+    "Contact": {
+      "title": "Vegye fel a kapcsolatot",
+      "subtitle": "Van kérdése? ",
+      "formTitle": "Küldjön nekünk egy üzenetet",
+      "formDescription": "Töltse ki az űrlapot, és a lehető leghamarabb visszatérünk hozzád.",
+      "nameLabel": "Név",
+      "namePlaceholder": "Írja be a nevét",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Írja be e -mailjét",
+      "subjectLabel": "Téma",
+      "subjectPlaceholder": "Mi a helyzet?",
+      "messageLabel": "Üzenet",
+      "messagePlaceholder": "Írja be az üzenetét ide ...",
+      "submitButton": "Üzenet küldése",
+      "contactInfo": "Kapcsolattartási adatok",
+      "addressTitle": "Cím",
+      "address": "Main Street 123, Isztambul, Törökország",
+      "emailTitle": "Email",
+      "phoneTitle": "Telefon",
+      "whatsappButton": "Vegye fel a kapcsolatot a WhatsApp segítségével",
+      "formErrorMessage": "Nem sikerült e -mailt küldeni"
+    },
+    "Footer": {
+      "logo": "Társaság neve",
+      "description": "Elkötelezettek vagyunk a minőségi oktatási és képzési programok biztosításában, hogy segítsenek elérni a céljait.",
+      "quickLinks": "Gyors linkek",
+      "nav": {
+        "home": "Otthon",
+        "about": "Rólunk",
+        "program": "Programunk",
+        "vision": "Látásunk",
+        "contact": "Vegye fel velünk a kapcsolatot"
+      },
+      "contactInfo": "Kapcsolattartási információk",
+      "address": "Main Street 123, Isztambul, Törökország",
+      "followUs": "Kövessen minket",
+      "copyright": "Minden jog fenntartva."
+    },
+    "LanguageSwitcher": {
+      "selectLanguage": "Válassza ki a nyelvet"
+    },
+    "ThemeToggle": {
+      "toggleTheme": "Váltás téma",
+      "light": "Fény",
+      "dark": "Sötét",
+      "system": "Rendszer"
+    }
+  }

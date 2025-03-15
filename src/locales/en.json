@@ -1,95 +1,122 @@
 {
+    "Metadata": {
+        "title": "Quantum Trade Limited - Your Trusted Investment Partner",
+        "description": "Quantum Trade Limited provides innovative investment and advisory solutions to help you achieve your financial goals."
+    },
     "Navbar": {
-      "logo": "Company Name",
-      "home": "Home",
-      "about": "About Us",
-      "program": "Our Program",
-      "vision": "Our Vision",
-      "contact": "Contact Us"
-    },
-    "Hero": {
-      "title": "Welcome to Our Program",
-      "subtitle": "We provide innovative solutions to help you achieve your goals and transform your future.",
-      "learnMore": "Learn More",
-      "contactUs": "Contact Us",
-      "imageAlt": "Hero image showing our program in action"
-    },
-    "Features": {
-      "title": "What We Offer",
-      "subtitle": "Discover the key features of our comprehensive program",
-      "feature1": {
-        "title": "Quality Education",
-        "description": "Our program is designed by experts to provide you with the highest quality education and training."
-      },
-      "feature2": {
-        "title": "Expert Mentors",
-        "description": "Learn from industry professionals who will guide you through every step of your journey."
-      },
-      "feature3": {
-        "title": "Recognized Certification",
-        "description": "Receive a globally recognized certification upon successful completion of the program."
-      }
-    },
-    "AboutPreview": {
-      "title": "About Our Program",
-      "description": "Our program is designed to help you develop the skills and knowledge needed to succeed in today's competitive environment.",
-      "point1": "Comprehensive curriculum covering all essential topics",
-      "point2": "Hands-on practical training with real-world applications",
-      "point3": "Flexible learning options to fit your schedule",
-      "learnMore": "Learn More About Us",
-      "imageAlt": "Students participating in our program"
-    },
-    "VisionPreview": {
-      "title": "Our Vision",
-      "description": "We envision a future where everyone has access to quality education and opportunities for growth. Download our brochure to learn more about our vision and mission.",
-      "downloadBrochure": "Download Brochure"
-    },
-    "Contact": {
-      "title": "Get in Touch",
-      "subtitle": "Have questions? We're here to help. Reach out to us using the form below.",
-      "formTitle": "Send us a message",
-      "formDescription": "Fill out the form and we'll get back to you as soon as possible.",
-      "nameLabel": "Name",
-      "namePlaceholder": "Enter your name",
-      "emailLabel": "Email",
-      "emailPlaceholder": "Enter your email",
-      "subjectLabel": "Subject",
-      "subjectPlaceholder": "What is this regarding?",
-      "messageLabel": "Message",
-      "messagePlaceholder": "Enter your message here...",
-      "submitButton": "Send Message",
-      "contactInfo": "Contact Information",
-      "addressTitle": "Address",
-      "address": "123 Main Street, Istanbul, Turkey",
-      "emailTitle": "Email",
-      "phoneTitle": "Phone",
-      "whatsappButton": "Contact via WhatsApp"
-    },
-    "Footer": {
-      "logo": "Company Name",
-      "description": "We are dedicated to providing quality education and training programs to help you achieve your goals.",
-      "quickLinks": "Quick Links",
-      "nav": {
+        "logo": "Company Name",
         "home": "Home",
         "about": "About Us",
-        "program": "Our Program",
+        "features": "Our Program",
         "vision": "Our Vision",
-        "contact": "Contact Us"
-      },
-      "contactInfo": "Contact Info",
-      "address": "123 Main Street, Istanbul, Turkey",
-      "followUs": "Follow Us",
-      "copyright": "All rights reserved."
+        "contact": "WhatsApp Contact Us"
+    },
+    "Hero": {
+        "title": "Hungary Guest Investor Residence Program",
+        "subtitle": "One of the most affordable residence permit programs in the EU through investment.",
+        "learnMore": "Learn More",
+        "contactUs": "Contact Us",
+        "imageAlt": "Hero image showing our program in action",
+        "downloadBrochure": "Download Brochure"
+    },
+    "Features": {
+        "title": "About Us",
+        "subtitle": "Learn more about our company, our expert team, and our vision for the future.",
+        "feature1": {
+            "title": "About Quantum Trade Limited",
+            "description": "Quantum Trade Limited is a leading company in the field of international investment and consulting. Our company aims to help our clients achieve their financial goals by providing innovative and effective solutions. Quantum Trade Limited operates with the principles of reliability, transparency, and customer focus. Our services include investment consulting, asset management, and strategic planning. With our deep knowledge and experience in global financial markets, we create tailored solutions for the diverse needs of our clients. Additionally, we take pride in being the only authorized company for the Hungary Investor Visa program. Through this program, we provide professional support to individuals seeking to obtain a residence permit in Hungary through investment."
+        },
+        "feature2": {
+            "title": "Our Team",
+            "description": "Behind the success of Quantum Trade Limited is a team of experts and passionate professionals. Our team has extensive knowledge and experience in financial consulting, investment management, and strategic planning. We continuously improve ourselves and closely follow industry innovations to provide the best service to our clients. Our team, driven by a strong team spirit, prioritizes customer satisfaction in every project."
+        },
+        "feature3": {
+            "title": "Our Vision",
+            "description": "At Quantum Trade Limited, ethical values, sustainability, and customer focus form the foundation of our business approach. Our philosophy aims not only for success but also for making a positive contribution to society and the environment. We strive to establish long-term partnerships through transparent communication and trust-based relationships. At Quantum Trade Limited, we define success not only by financial gains but also by adding value to our clients' lives and helping them achieve their goals."
+        }
+    },
+    "AboutPreview": {
+        "preview1": {
+            "title": "SPRINT Hungary Real Estate Development and Investment Fund",
+            "description": "This fund was approved by the Hungarian Audit Authority on August 15, 2024. The fund is valid for 20 years and can be extended for another 20 years at the discretion of the fund manager. The fund has four different investment classes: A, B, C, and D. The C and D classes are specifically designed for third-country nationals and help them obtain a guest investor visa.",
+            "point1": "Approved by the Hungarian Audit Authority",
+            "point2": "Valid for 20 years, extendable for another 20",
+            "point3": "Helps obtain a guest investor visa",
+            "imageAlt": "Hungary real estate investment fund"
+        },
+        "preview2": {
+            "title": "Why Choose Hungary?",
+            "description": "Hungary offers numerous advantages for investors and foreign nationals looking for opportunities.",
+            "point1": "Access to the EU and Schengen area",
+            "point2": "Simplified application process with no minimum stay requirement",
+            "point3": "Low corporate tax rate (9% - the lowest in Europe)",
+            "imageAlt": "Benefits of choosing Hungary"
+        },
+        "preview3": {
+            "title": "Who Can Apply?",
+            "description": "To be eligible for the Hungarian Investor Visa, applicants must meet the following criteria.",
+            "point1": "Must not be an EU citizen",
+            "point2": "No criminal record",
+            "point3": "Minimum investment of €250,000 in an approved fund",
+            "imageAlt": "Eligibility for Hungary Investor Visa"
+        },
+        "learnMore": "Learn More"
+    },
+    "VisionPreview": {
+        "title": "Our Vision",
+        "description": "At Quantum Trade Limited, we aspire to be a global leader in investment and consulting, driven by transparency, reliability, and sustainable growth. Our vision is to create innovative and long-term financial solutions that empower our clients and help them achieve their financial goals.",
+        "point1": "Providing innovative and sustainable investment solutions to maximize value for our clients.",
+        "point2": "Leveraging technology and financial innovations to make investment processes more efficient and accessible.",
+        "point3": "Establishing a trusted consulting platform that enables investors to reach their goals with confidence.",
+        "point4": "Building long-term partnerships based on transparency, ethical values, and customer-centric service.",
+        "point5": "Facilitating access to economic and social opportunities through special programs such as the Hungary Investor Visa.",
+        "downloadBrochure": "Download Brochure"
+    },
+    "Contact": {
+        "title": "Get in Touch",
+        "subtitle": "Have questions? We're here to help. Reach out to us using the form below.",
+        "formTitle": "Send us a message",
+        "formDescription": "Fill out the form and we'll get back to you as soon as possible.",
+        "nameLabel": "Name",
+        "namePlaceholder": "Enter your name",
+        "emailLabel": "Email",
+        "emailPlaceholder": "Enter your email",
+        "subjectLabel": "Subject",
+        "subjectPlaceholder": "What is this regarding?",
+        "messageLabel": "Message",
+        "messagePlaceholder": "Enter your message here...",
+        "submitButton": "Send Message",
+        "contactInfo": "Contact Information",
+        "addressTitle": "Address",
+        "address": "123 Main Street, Istanbul, Turkey",
+        "emailTitle": "Email",
+        "phoneTitle": "Phone",
+        "whatsappButton": "Contact via WhatsApp",
+        "formErrorMessage": "Failed to send email"
+    },
+    "Footer": {
+        "logo": "Company Name",
+        "description": "We are dedicated to providing quality education and training programs to help you achieve your goals.",
+        "quickLinks": "Quick Links",
+        "nav": {
+            "home": "Home",
+            "about": "About Us",
+            "program": "Our Program",
+            "vision": "Our Vision",
+            "contact": "Contact Us"
+        },
+        "contactInfo": "Contact Info",
+        "address": "123 Main Street, Istanbul, Turkey",
+        "followUs": "Follow Us",
+        "copyright": "All rights reserved."
     },
     "LanguageSwitcher": {
-      "selectLanguage": "Select language"
+        "selectLanguage": "Select language"
     },
     "ThemeToggle": {
-      "toggleTheme": "Toggle theme",
-      "light": "Light",
-      "dark": "Dark",
-      "system": "System"
+        "toggleTheme": "Toggle theme",
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
     }
-  }
-  
-  
+}

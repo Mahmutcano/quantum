@@ -1,95 +1,122 @@
 {
+    "Metadata": {
+        "title": "Quantum Trade Limited - Güvenilir Yatırım Ortağınız",
+        "description": "Quantum Trade Limited, finansal hedeflerinize ulaşmanıza yardımcı olmak için yenilikçi yatırım ve danışmanlık çözümleri sunar."
+    },
     "Navbar": {
-      "logo": "Şirket Adı",
-      "home": "Ana Sayfa",
-      "about": "Hakkımızda",
-      "program": "Programımız",
-      "vision": "Vizyonumuz",
-      "contact": "Bize Ulaşın"
-    },
-    "Hero": {
-      "title": "Programımıza Hoş Geldiniz",
-      "subtitle": "Hedeflerinize ulaşmanıza ve geleceğinizi dönüştürmenize yardımcı olacak yenilikçi çözümler sunuyoruz.",
-      "learnMore": "Daha Fazla Bilgi",
-      "contactUs": "Bize Ulaşın",
-      "imageAlt": "Programımızı gösteren ana görsel"
-    },
-    "Features": {
-      "title": "Neler Sunuyoruz",
-      "subtitle": "Kapsamlı programımızın temel özelliklerini keşfedin",
-      "feature1": {
-        "title": "Kaliteli Eğitim",
-        "description": "Programımız, size en yüksek kalitede eğitim ve öğretim sağlamak için uzmanlar tarafından tasarlanmıştır."
-      },
-      "feature2": {
-        "title": "Uzman Mentorlar",
-        "description": "Yolculuğunuzun her adımında size rehberlik edecek sektör profesyonellerinden öğrenin."
-      },
-      "feature3": {
-        "title": "Tanınmış Sertifika",
-        "description": "Programı başarıyla tamamladığınızda dünya çapında tanınan bir sertifika alın."
-      }
-    },
-    "AboutPreview": {
-      "title": "Programımız Hakkında",
-      "description": "Programımız, günümüzün rekabetçi ortamında başarılı olmanız için gereken beceri ve bilgileri geliştirmenize yardımcı olmak üzere tasarlanmıştır.",
-      "point1": "Tüm temel konuları kapsayan kapsamlı müfredat",
-      "point2": "Gerçek dünya uygulamalarıyla uygulamalı pratik eğitim",
-      "point3": "Programınıza uygun esnek öğrenme seçenekleri",
-      "learnMore": "Hakkımızda Daha Fazla Bilgi",
-      "imageAlt": "Programımıza katılan öğrenciler"
-    },
-    "VisionPreview": {
-      "title": "Vizyonumuz",
-      "description": "Herkesin kaliteli eğitime ve gelişim fırsatlarına erişebildiği bir gelecek hayal ediyoruz. Vizyonumuz ve misyonumuz hakkında daha fazla bilgi edinmek için broşürümüzü indirin.",
-      "downloadBrochure": "Broşürü İndir"
-    },
-    "Contact": {
-      "title": "İletişime Geçin",
-      "subtitle": "Sorularınız mı var? Yardımcı olmak için buradayız. Aşağıdaki formu kullanarak bize ulaşın.",
-      "formTitle": "Bize mesaj gönderin",
-      "formDescription": "Formu doldurun, en kısa sürede size geri döneceğiz.",
-      "nameLabel": "İsim",
-      "namePlaceholder": "İsminizi girin",
-      "emailLabel": "E-posta",
-      "emailPlaceholder": "E-posta adresinizi girin",
-      "subjectLabel": "Konu",
-      "subjectPlaceholder": "Bu ne hakkında?",
-      "messageLabel": "Mesaj",
-      "messagePlaceholder": "Mesajınızı buraya yazın...",
-      "submitButton": "Mesaj Gönder",
-      "contactInfo": "İletişim Bilgileri",
-      "addressTitle": "Adres",
-      "address": "Ana Cadde No:123, İstanbul, Türkiye",
-      "emailTitle": "E-posta",
-      "phoneTitle": "Telefon",
-      "whatsappButton": "WhatsApp ile İletişim"
-    },
-    "Footer": {
-      "logo": "Şirket Adı",
-      "description": "Hedeflerinize ulaşmanıza yardımcı olmak için kaliteli eğitim ve öğretim programları sunmaya kendimizi adadık.",
-      "quickLinks": "Hızlı Bağlantılar",
-      "nav": {
+        "logo": "Şirket Adı",
         "home": "Ana Sayfa",
         "about": "Hakkımızda",
-        "program": "Programımız",
+        "features": "Programımız",
         "vision": "Vizyonumuz",
-        "contact": "Bize Ulaşın"
-      },
-      "contactInfo": "İletişim Bilgileri",
-      "address": "Ana Cadde No:123, İstanbul, Türkiye",
-      "followUs": "Bizi Takip Edin",
-      "copyright": "Tüm hakları saklıdır."
+        "contact": "WhatsApp Bize Ulaşın"
+    },
+    "Hero": {
+        "title": "Macaristan Misafir Yatırımcı Oturum Programı",
+        "subtitle": "AB'nin en uygun fiyatlı yatırım yoluyla oturma izni programlarından biri.",
+        "learnMore": "Daha Fazla Bilgi",
+        "contactUs": "Bize Ulaşın",
+        "imageAlt": "Programımızı gösteren ana görsel",
+        "downloadBrochure": "Tanıtım Broşürünü İndir"
+    },
+    "Features": {
+        "title": "Hakkımızda",
+        "subtitle": "Şirketimiz, alanında uzman ekibimiz ve geleceğe yönelik vizyonumuz hakkında daha fazla bilgi edinin.",
+        "feature1": {
+            "title": "Quantum Trade Limited Hakkında",
+            "description": "Quantum Trade Limited, uluslararası yatırım ve danışmanlık alanında öncü bir şirket olarak faaliyet göstermektedir. Şirketimiz, müşterilerimize yenilikçi ve etkili çözümler sunarak onların finansal hedeflerine ulaşmalarına yardımcı olmayı amaçlar. Quantum Trade Limited, güvenilirlik, şeffaflık ve müşteri odaklılık prensipleriyle hareket eder. Sunduğumuz hizmetler arasında, yatırım danışmanlığı, varlık yönetimi ve stratejik planlama yer almaktadır. Global finans piyasalarındaki derin bilgi birikimimiz ve deneyimimiz sayesinde, müşterilerimizin farklı ihtiyaçlarına özel çözümler üretiyoruz. Ayrıca, Macaristan Yatırımcı Vizesi programında yetkili tek şirket olmanın gururunu yaşıyoruz. Bu program kapsamında, yatırım yoluyla Macaristan’da oturum izni almak isteyen bireylere profesyonel destek sağlamaktayız."
+        },
+        "feature2": {
+            "title": "Takımımız",
+            "description": "Quantum Trade Limited’in başarısının arkasında, alanlarında uzman ve tutkulu bir ekip bulunmaktadır. Ekibimiz, finansal danışmanlık, yatırım yönetimi ve stratejik planlama konularında geniş bir bilgi birikimine ve deneyime sahiptir. Müşterilerimize en iyi hizmeti sunabilmek için sürekli kendimizi geliştiriyor ve sektördeki yenilikleri yakından takip ediyoruz. Takım ruhuyla hareket eden ekibimiz, her projede müşteri memnuniyetini öncelikli hedef olarak benimsemektedir."
+        },
+        "feature3": {
+            "title": "Vizyonumuz",
+            "description": "Quantum Trade Limited olarak, iş yapış biçimimizde etik değerler, sürdürülebilirlik ve müşteri odaklılık temel prensiplerimizi oluşturur. İş felsefemiz, yalnızca başarıyı değil, aynı zamanda topluma ve çevreye olumlu bir katkı sağlamayı da hedefler. Şeffaf iletişim ve güvene dayalı ilişkiler kurarak uzun vadeli iş birlikleri oluşturmayı amaçlıyoruz. Quantum Trade Limited olarak, başarıyı sadece finansal kazanımlarla değil, aynı zamanda müşterilerimizin hayatlarına değer katarak ve onların hedeflerine ulaşmalarını sağlayarak tanımlıyoruz."
+        }
+    },
+    "AboutPreview": {
+        "preview1": {
+            "title": "SPRINT Macaristan Gayrimenkul Geliştirme ve Yatırım Fonu",
+            "description": "Bu fon, Macaristan Denetim Kurumu tarafından 15 Ağustos 2024’te onaylandı. Fon, 20 yıl süreyle geçerli olup, fon yöneticisinin kararına bağlı olarak 20 yıl daha uzatılabilir. Fonun A, B, C ve D olmak üzere dört farklı yatırım sınıfı bulunmakta olup, C ve D sınıfları üçüncü ülke vatandaşlarına özel olarak tasarlanmıştır ve misafir yatırımcı vizesi almalarına yardımcı olmaktadır.",
+            "point1": "Macaristan Denetim Kurumu tarafından onaylandı",
+            "point2": "20 yıl geçerli, 20 yıl daha uzatılabilir",
+            "point3": "Misafir yatırımcı vizesi almaya yardımcı olur",
+            "imageAlt": "Macaristan gayrimenkul yatırım fonu"
+        },
+        "preview2": {
+            "title": "Neden Macaristan'ı Seçmeliyim?",
+            "description": "Macaristan, yatırımcılar ve yabancı uyruklular için birçok avantaj sunmaktadır.",
+            "point1": "AB ve Schengen bölgesine erişim",
+            "point2": "Kolaylaştırılmış başvuru süreci, minimum kalış şartı yok",
+            "point3": "Düşük kurumlar vergisi (%9 - Avrupa'nın en düşüğü)",
+            "imageAlt": "Macaristan'ı seçmenin avantajları"
+        },
+        "preview3": {
+            "title": "Kimler Başvurabilir?",
+            "description": "Macaristan Yatırımcı Vizesi'ne başvurabilmek için adayların aşağıdaki kriterleri karşılaması gerekmektedir.",
+            "point1": "AB vatandaşı olmamak",
+            "point2": "Adli sicil kaydı bulunmamak",
+            "point3": "En az €250,000 değerinde onaylı fona yatırım yapmak",
+            "imageAlt": "Macaristan yatırımcı vizesine uygunluk"
+        },
+        "learnMore": "Daha Fazla Bilgi Edinin"
+    },
+    "VisionPreview": {
+        "title": "Vizyonumuz",
+        "description": "Quantum Trade Limited olarak, şeffaflık, güvenilirlik ve sürdürülebilir büyüme ilkeleriyle küresel çapta yatırım ve danışmanlık alanında lider olmayı hedefliyoruz. Vizyonumuz, müşterilerimizi güçlendiren ve finansal hedeflerine ulaşmalarına yardımcı olan yenilikçi ve uzun vadeli çözümler sunmaktır.",
+        "point1": "Müşterilerimize en yüksek değeri sunmak için yenilikçi ve sürdürülebilir yatırım çözümleri sağlamak.",
+        "point2": "Teknoloji ve finansal yenilikleri kullanarak yatırım süreçlerini daha verimli ve erişilebilir hale getirmek.",
+        "point3": "Yatırımcılarımızın hedeflerine güvenle ulaşmasını sağlayan güvenilir bir danışmanlık platformu oluşturmak.",
+        "point4": "Şeffaflık, etik değerler ve müşteri odaklı hizmet anlayışıyla uzun vadeli iş birlikleri kurmak.",
+        "point5": "Macaristan Yatırımcı Vizesi gibi özel programlarla ekonomik ve sosyal fırsatlara erişimi kolaylaştırmak.",
+        "downloadBrochure": "Broşürü İndir"
+    },
+    "Contact": {
+        "title": "İletişime Geçin",
+        "subtitle": "Sorularınız mı var? Yardımcı olmak için buradayız. Aşağıdaki formu kullanarak bize ulaşın.",
+        "formTitle": "Bize mesaj gönderin",
+        "formDescription": "Formu doldurun, en kısa sürede size geri döneceğiz.",
+        "nameLabel": "İsim",
+        "namePlaceholder": "İsminizi girin",
+        "emailLabel": "E-posta",
+        "emailPlaceholder": "E-posta adresinizi girin",
+        "subjectLabel": "Konu",
+        "subjectPlaceholder": "Bu ne hakkında?",
+        "messageLabel": "Mesaj",
+        "messagePlaceholder": "Mesajınızı buraya yazın...",
+        "submitButton": "Mesaj Gönder",
+        "contactInfo": "İletişim Bilgileri",
+        "addressTitle": "Adres",
+        "address": "Quantum Trade Limited",
+        "emailTitle": "E-posta",
+        "phoneTitle": "Telefon",
+        "whatsappButton": "WhatsApp ile İletişim",
+        "formErrorMessage": "Form gönderilirken hata oluştu"
+    },
+    "Footer": {
+        "logo": "Şirket Adı",
+        "description": "Hedeflerinize ulaşmanıza yardımcı olmak için kaliteli eğitim ve öğretim programları sunmaya kendimizi adadık.",
+        "quickLinks": "Hızlı Bağlantılar",
+        "nav": {
+            "home": "Ana Sayfa",
+            "about": "Hakkımızda",
+            "program": "Programımız",
+            "vision": "Vizyonumuz",
+            "contact": "Bize Ulaşın"
+        },
+        "contactInfo": "İletişim Bilgileri",
+        "address": "Quantum Trade Limited",
+        "followUs": "Bizi Takip Edin",
+        "copyright": "Tüm hakları saklıdır."
     },
     "LanguageSwitcher": {
-      "selectLanguage": "Dil seçin"
+        "selectLanguage": "Dil seçin"
     },
     "ThemeToggle": {
-      "toggleTheme": "Tema değiştir",
-      "light": "Açık",
-      "dark": "Koyu",
-      "system": "Sistem"
+        "toggleTheme": "Tema değiştir",
+        "light": "Açık",
+        "dark": "Koyu",
+        "system": "Sistem"
     }
-  }
-  
-  
+}

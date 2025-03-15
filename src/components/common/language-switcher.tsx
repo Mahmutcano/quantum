@@ -25,7 +25,10 @@ const languages: Language[] = [
   { code: "fr", name: "Français", flag: "🇫🇷" },
   { code: "de", name: "Deutsch", flag: "🇩🇪" },
   { code: "tr", name: "Türkçe", flag: "🇹🇷" },
+  { code: "ar", name: "العربية", flag: "🇸🇦" },  // Arapça
+  { code: "hu", name: "Magyar", flag: "🇭🇺" }   // Macarca
 ].filter(lang => AppConfig.locales.includes(lang.code));
+
 
 export function LanguageSwitcher() {
   const t = useTranslations('LanguageSwitcher')
