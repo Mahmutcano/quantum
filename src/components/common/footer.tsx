@@ -66,7 +66,7 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="tel:+36 70 359 6226" className="text-primary hover:underline">
+                <a href="tel:+36703596226" className="text-primary hover:underline">
                   +36 70 359 6226
                 </a>
               </li>

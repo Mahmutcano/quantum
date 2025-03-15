@@ -6,17 +6,23 @@ import { useTranslations } from "next-intl";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { HeaderActions } from "./header-actions";
-import { cn } from "@/lib/utils"
-
+import { cn } from "@/lib/utils";
 import Image from "next/image";
 
 export function Navbar() {
     const t = useTranslations("Navbar");
     const { theme } = useTheme();
     const [isMenuOpen, setIsMenuOpen] = useState(false);
+    const phoneNumber = "+36703596226"; // WhatsApp için kullanılacak numara
 
     const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
     const closeMenu = () => setIsMenuOpen(false);
+
+    // 📌 WhatsApp Açma Fonksiyonu
+    const openWhatsApp = () => {
+        const whatsappUrl = `https://wa.me/${phoneNumber}`;
+        window.open(whatsappUrl, "_blank");
+    };
 
     // ** Scroll fonksiyonu: Sayfa içi geçiş yapar **
     const handleScrollToSection = (id: string) => {
@@ -67,9 +73,12 @@ export function Navbar() {
                             {t(item.key)}
                         </button>
                     ))}
-                    <button onClick={() => handleScrollToSection("contact")}>
-                        <Button className="gap-2 bg-green-500">
+                    <button onClick={openWhatsApp}>
+                        <Button className="gap-2 cursor-pointer" variant="outline">
                             <span>{t("contact")}</span>
+                            <span>
+                                    <img src="/images/whatsapp.png" alt="whatsapp" width={24} height={24} />
+                                </span>
                         </Button>
                     </button>
                     <div className="hidden md:block">
@@ -97,13 +106,17 @@ export function Navbar() {
                                 className={cn(
                                     "text-sm font-medium cursor-pointer transition-colors hover:text-primary",
                                     item.key === "contact" ? "hidden" : "block"
-                                )}                            >
+                                )}
+                            >
                                 {t(item.key)}
                             </button>
                         ))}
-                        <button onClick={() => handleScrollToSection("contact")}>
+                        <button onClick={openWhatsApp}>
                             <Button className="w-full gap-2 cursor-pointer">
                                 <span>{t("contact")}</span>
+                                <span>
+                                <img src="/images/whatsapp.png" alt="whatsapp" width={24} height={24} />
+                                </span>
                             </Button>
                         </button>
                     </nav>

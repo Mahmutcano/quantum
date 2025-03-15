@@ -9,7 +9,7 @@
         "about": "Hakkımızda",
         "features": "Programımız",
         "vision": "Vizyonumuz",
-        "contact": "WhatsApp Bize Ulaşın"
+        "contact": "WhatsApp İle Bize Ulaşın"
     },
     "Hero": {
         "title": "Macaristan Misafir Yatırımcı Oturum Programı",
@@ -91,7 +91,7 @@
         "address": "Quantum Trade Limited",
         "emailTitle": "E-posta",
         "phoneTitle": "Telefon",
-        "whatsappButton": "WhatsApp ile İletişim",
+        "whatsappButton": "WhatsApp İle İletişim",
         "formErrorMessage": "Form gönderilirken hata oluştu"
     },
     "Footer": {

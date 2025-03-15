@@ -23,7 +23,7 @@ export function ContactSection() {
 
         const formData = new FormData(e.currentTarget);
         const formDataObj: Record<string, string> = {};
-        
+
         formData.forEach((value, key) => {
             formDataObj[key] = typeof value === "string" ? value : "";
         });
@@ -142,16 +142,14 @@ export function ContactSection() {
                                     <div>
                                         <h3 className="font-medium">{t("phoneTitle")}</h3>
                                         <a href={`tel:${phoneNumber}`} className="text-sm text-muted-foreground hover:text-primary transition-colors">
-                                            +90 123 456 7890
+                                            +36 70 359 6226
                                         </a>
                                     </div>
                                 </div>
                                 <a href={`https://wa.me/${phoneNumber}`} target="_blank" rel="noopener noreferrer" className="block w-full">
-                                    <Button className="w-full mt-4 gap-2">
-                                        <svg viewBox="0 0 24 24" className="h-4 w-4 fill-current" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M17.6 6.32A7.85 7.85 0 0 0 12.05 4c-4.38 0-7.93 3.55-7.93 7.93 0 1.41.37 2.78 1.07 3.98l-1.14 4.15 4.24-1.11a7.9 7.9 0 0 0 3.79.96h.01c4.38 0 7.93-3.55 7.93-7.93 0-2.12-.82-4.11-2.32-5.66z"/>
-                                        </svg>
-                                        {t("whatsappButton")}
+                                    <Button className="flex w-full mt-4 gap-4 cursor-pointer" variant="outline">
+                                        <span><img src="/images/whatsapp.png" alt="whatsapp" width={24} height={24} /></span>
+                                        <span>{t("whatsappButton")}</span>
                                     </Button>
                                 </a>
                             </CardContent>
