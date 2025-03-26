@@ -4,7 +4,7 @@ import { useTranslations } from "next-intl";
 
 const previews = [
   {
-    image: "/images/gayri.jpg",
+    image: "/images/q1.jpeg",
     titleKey: "preview1.title",
     descriptionKey: "preview1.description",
     points: ["preview1.point1", "preview1.point2", "preview1.point3"],
@@ -12,7 +12,7 @@ const previews = [
     imagePosition: "left"
   },
   {
-    image: "/images/why.jpg",
+    image: "/images/q2.jpeg",
     titleKey: "preview2.title",
     descriptionKey: "preview2.description",
     points: ["preview2.point1", "preview2.point2", "preview2.point3"],
@@ -20,7 +20,7 @@ const previews = [
     imagePosition: "right"
   },
   {
-    image: "/images/train.jpg",
+    image: "/images/q3.jpg",
     titleKey: "preview3.title",
     descriptionKey: "preview3.description",
     points: ["preview3.point1", "preview3.point2", "preview3.point3"],
@@ -33,8 +33,8 @@ export function AboutPreviewSection() {
   const t = useTranslations("AboutPreview");
 
   return (
-    <section className="py-20">
-      <div className="mx-12 space-y-16">
+    <section className="py-4 md:py-12">
+      <div className="mx-12 space-y-4">
         {previews.map((preview, index) => (
           <div
             key={index}
@@ -49,7 +49,7 @@ export function AboutPreviewSection() {
               <img
                 src={preview.image}
                 alt={t(preview.imageAlt)}
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover shadow"
               />
             </div>
 

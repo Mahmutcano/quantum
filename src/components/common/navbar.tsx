@@ -51,7 +51,7 @@ export function Navbar() {
                     {/* Tema değişimine göre logo */}
                     <button className="flex items-center gap-2" onClick={() => handleScrollToSection("home")}>
                         <Image
-                            src={theme === "dark" ? "/images/quantum_logo_beyaz.png" : "/images/quantum_logo_siyah.png"}
+                            src={theme === "dark" ? "/images/quantum_logo.png" : "/images/quantum_logo.png"}
                             alt="Logo"
                             width={85}
                             height={85}

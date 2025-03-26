@@ -30,7 +30,7 @@ export function VisionPreviewSection() {
     };
 
     return (
-        <section className="py-20 bg-primary/5">
+        <section className="py-4 md:py-12 bg-primary/5">
             <div className="mx-12">
                 <div className="max-w-3xl mx-auto text-center">
                     <h2 className="text-3xl font-bold tracking-tight mb-6">{t("title")}</h2>

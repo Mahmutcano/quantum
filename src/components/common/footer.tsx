@@ -27,7 +27,7 @@ export function Footer() {
   };
 
   return (
-    <footer className="bg-muted py-12">
+    <footer className="bg-muted py-4">
       <div className="mx-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Logo ve Açıklama */}

@@ -26,7 +26,7 @@ export function FeaturesSection() {
   ]
 
   return (
-    <section className="py-20 bg-muted/50">
+    <section className="py-4 md:py-12 bg-muted/50">
       <div className="mx-12">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold tracking-tight mb-4">{t("title")}</h2>
