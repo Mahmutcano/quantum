@@ -19,11 +19,11 @@ export default function FAQSection() {
     };
 
     return (
-        <section className="py-4 md:py-12">
+        <section className="py-4 md:py-12 px-12">
             <div className="mx-auto max-w-3xl">
                 <h2 className="mb-8 text-center text-3xl font-bold">{t("title")}</h2>
 
-                <Accordion type="single" collapsible className="w-full">
+                <Accordion type="single" collapsible className="w-full px-6">
                     {faqItems.map((faq, index) => (
                         <AccordionItem key={index} value={`item-${index}`}>
                             <AccordionTrigger className="text-left font-medium">{faq.question}</AccordionTrigger>

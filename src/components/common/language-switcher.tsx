@@ -39,11 +39,11 @@ export function LanguageSwitcher() {
   const currentLanguage = languages.find(lang => lang.code === locale) || languages[0]
 
   const handleLanguageChange = (language: Language) => {
-    router.replace(pathname, { locale: language.code as 'en' | 'tr' | 'ar' | 'hu' })
+    router.replace(pathname, { locale: language.code })
   }
 
   console.log(t);
-  
+
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>

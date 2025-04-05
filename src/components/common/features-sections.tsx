@@ -36,7 +36,7 @@ export function FeaturesSection() {
             {supportPoints.map((point, index) => (
               <li key={index} className="flex items-center gap-3">
                 <CheckCircle className="w-5 h-5 text-primary mt-1 shrink-0" />
-                <span className="text-base text-muted-foreground">{point}</span>
+                <span className="text-base text-muted-foreground text-start">{point}</span>
               </li>
             ))}
           </ul>

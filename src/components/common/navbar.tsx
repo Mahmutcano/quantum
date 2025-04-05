@@ -29,7 +29,7 @@ export function Navbar() {
       <div className="flex h-16 items-center justify-between mx-12">
         {/* Logo */}
         <div className="flex items-center gap-2">
-          <Link href="/home" className="flex items-center gap-2">
+          <Link href="/" className="flex items-center gap-2">
             <Image
               src={theme === "dark" ? "/images/quantum_logo.png" : "/images/quantum_logo.png"}
               alt="Logo"
