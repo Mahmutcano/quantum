@@ -1,8 +1,10 @@
 import { AboutPreviewSection } from "@/components/common/about-preview-section";
 import { ContactSection } from "@/components/common/contact-section";
+import FAQSection from "@/components/common/faq";
 import { FeaturesSection } from "@/components/common/features-sections";
 import { HeroSection } from "@/components/common/hero-sections";
-import { VisionPreviewSection } from "@/components/common/vision-preview-section";
+import ProcessPage from "@/components/common/period";
+// import { VisionPreviewSection } from "@/components/common/vision-preview-section";
 
 export default function Home() {
   return (
@@ -16,9 +18,15 @@ export default function Home() {
       <section id="about">
         <AboutPreviewSection />
       </section>
-      <section id="vision">
-        <VisionPreviewSection />
+      <section id="period">
+        <ProcessPage />
       </section>
+      <section id="faq">
+        <FAQSection />
+      </section>
+      {/* <section id="vision">
+        <VisionPreviewSection />
+      </section> */}
       <section id="contact">
         <ContactSection />
       </section>

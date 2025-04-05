@@ -7,6 +7,7 @@ import { ThemeProvider } from '@/components/provider/theme-provider';
 import { Navbar } from '@/components/common/navbar';
 import { Footer } from '@/components/common/footer';
 import { getTranslations } from 'next-intl/server';
+import { WhatsAppButton } from '@/components/common/whatsapp-button';
 
 type IIndexProps = {
   params: Promise<{ locale: string }>;
@@ -64,6 +65,7 @@ export default async function LocaleLayout({
             <div className="flex min-h-screen flex-col">
               <Navbar />
               <div className="flex-1">{children}</div>
+              <WhatsAppButton />
               <Footer />
             </div>
           </ThemeProvider>

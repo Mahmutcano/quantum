@@ -4,12 +4,11 @@
         "description": "Quantum Trade Limited, finansal hedeflerinize ulaşmanıza yardımcı olmak için yenilikçi yatırım ve danışmanlık çözümleri sunar."
     },
     "Navbar": {
-        "logo": "Şirket Adı",
-        "home": "Ana Sayfa",
-        "about": "Hakkımızda",
-        "features": "Programımız",
-        "vision": "Vizyonumuz",
-        "contact": "WhatsApp İle Bize Ulaşın"
+        "home": "ANA SAYFA",
+        "program": "PROGRAM",
+        "about": "HAKKIMIZDA",
+        "partner": "ÇÖZÜM ORTAĞIMIZ",
+        "contact": "İLETİŞİM"
     },
     "Hero": {
         "title": "Macaristan Misafir Yatırımcı Oturum Programı",
@@ -20,47 +19,164 @@
         "downloadBrochure": "Tanıtım Broşürünü İndir"
     },
     "Features": {
-        "title": "Hakkımızda",
-        "subtitle": "Şirketimiz, alanında uzman ekibimiz ve geleceğe yönelik vizyonumuz hakkında daha fazla bilgi edinin.",
-        "feature1": {
-            "title": "Quantum Trade Limited Hakkında",
-            "description": "Quantum Trade Limited, uluslararası yatırım ve danışmanlık alanında öncü bir şirket olarak faaliyet göstermektedir. Şirketimiz, müşterilerimize yenilikçi ve etkili çözümler sunarak onların finansal hedeflerine ulaşmalarına yardımcı olmayı amaçlar. Quantum Trade Limited, güvenilirlik, şeffaflık ve müşteri odaklılık prensipleriyle hareket eder. Sunduğumuz hizmetler arasında, yatırım danışmanlığı, varlık yönetimi ve stratejik planlama yer almaktadır. Global finans piyasalarındaki derin bilgi birikimimiz ve deneyimimiz sayesinde, müşterilerimizin farklı ihtiyaçlarına özel çözümler üretiyoruz. Ayrıca, Macaristan Yatırımcı Vizesi programında yetkili tek şirket olmanın gururunu yaşıyoruz. Bu program kapsamında, yatırım yoluyla Macaristan’da oturum izni almak isteyen bireylere profesyonel destek sağlamaktayız."
-        },
-        "feature2": {
-            "title": "Takımımız",
-            "description": "Quantum Trade Limited’in başarısının arkasında, alanlarında uzman ve tutkulu bir ekip bulunmaktadır. Ekibimiz, finansal danışmanlık, yatırım yönetimi ve stratejik planlama konularında geniş bir bilgi birikimine ve deneyime sahiptir. Müşterilerimize en iyi hizmeti sunabilmek için sürekli kendimizi geliştiriyor ve sektördeki yenilikleri yakından takip ediyoruz. Takım ruhuyla hareket eden ekibimiz, her projede müşteri memnuniyetini öncelikli hedef olarak benimsemektedir."
-        },
-        "feature3": {
-            "title": "Vizyonumuz",
-            "description": "Quantum Trade Limited olarak, iş yapış biçimimizde etik değerler, sürdürülebilirlik ve müşteri odaklılık temel prensiplerimizi oluşturur. İş felsefemiz, yalnızca başarıyı değil, aynı zamanda topluma ve çevreye olumlu bir katkı sağlamayı da hedefler. Şeffaf iletişim ve güvene dayalı ilişkiler kurarak uzun vadeli iş birlikleri oluşturmayı amaçlıyoruz. Quantum Trade Limited olarak, başarıyı sadece finansal kazanımlarla değil, aynı zamanda müşterilerimizin hayatlarına değer katarak ve onların hedeflerine ulaşmalarını sağlayarak tanımlıyoruz."
+        "title": "Quantum Trade Limited",
+        "subtitle": "Macaristan Yatırımcı Vizesi Programı'nda Yetkili Güvenilir Ortağınız",
+        "paragraph1": "Quantum Trade Limited, SPRINT Gayrimenkul Geliştirme ve Yatırım Fonu'nu yöneten SPRINT ASSET Hungária Zrt'nin güvenilir bir ortağıdır. Fon, yatırımcılara nitelikli yatırımlarla Macar Misafir Yatırımcı Oturma İzni alma fırsatı sunar. Misafir Yatırımcı Oturma İzni programı, yatırım yoluyla ikamet programına hak kazanabilmek için fona en az 250.000 EUR tutarında yatırım yapılmasını gerektirmektedir.",
+        "paragraph2": "Quantum Trade Limited, uluslararası yatırım ve danışmanlık alanında öncü bir şirket olarak faaliyet göstermektedir. Şirket, yenilikçi ve etkili çözümler sunarak müşterilerinin yatırım hedeflerine ulaşmalarına yardımcı olmayı amaçlamaktadır. Quantum, dünya çapındaki müşterilerine yatırım danışmanlığı hizmetleri sunan uzun yıllara dayanan tecrübeye sahiptir. Programın başlangıcından itibaren birçok yatırımcıya Macar Misafir Yatırımcı Oturma İzni almalarında yardımcı olduk.",
+        "support": {
+            "title": "Quantum Size Nasıl Yardımcı Olur?",
+            "point1": "Programın gereklilikleri ve avantajları hakkında danışmanlık",
+            "point2": "Gerekli belgelerin toplanması ve hazırlanması",
+            "point3": "Macaristan’daki randevularda size eşlik etme",
+            "point4": "Başvuru sürecinde rehberlik ve belge teslimi",
+            "point5": "Başvuru öncesi, sırası ve sonrasında kesintisiz destek",
+            "note": "Quantum ile bu süreci güvenle ve kolaylıkla yönetebilirsiniz."
         }
     },
     "AboutPreview": {
-        "preview1": {
-            "title": "SPRINT Macaristan Gayrimenkul Geliştirme ve Yatırım Fonu",
-            "description": "Bu fon, Macaristan Denetim Kurumu tarafından 15 Ağustos 2024’te onaylandı. Fon, 20 yıl süreyle geçerli olup, fon yöneticisinin kararına bağlı olarak 20 yıl daha uzatılabilir. Fonun A, B, C ve D olmak üzere dört farklı yatırım sınıfı bulunmakta olup, C ve D sınıfları üçüncü ülke vatandaşlarına özel olarak tasarlanmıştır ve misafir yatırımcı vizesi almalarına yardımcı olmaktadır.",
-            "point1": "Macaristan Denetim Kurumu tarafından onaylandı",
-            "point2": "20 yıl geçerli, 20 yıl daha uzatılabilir",
-            "point3": "Misafir yatırımcı vizesi almaya yardımcı olur",
-            "imageAlt": "Macaristan gayrimenkul yatırım fonu"
+        "title": "Program",
+        "subtitle": "Şirketimiz, alanında uzman ekibimiz ve geleceğe yönelik vizyonumuz hakkında daha fazla bilgi edinin.",
+        "summary": {
+            "title": "Program Özeti",
+            "description": "",
+            "investment": "Minimum Yatırım: 250.000 EUR",
+            "duration": "İşlem Süresi: 3-4 ay",
+            "residency": "Oturma İzni Süresi: 10 yıl (yenilenebilir)",
+            "imageAlt": "Program özeti görseli"
         },
-        "preview2": {
-            "title": "Neden Macaristan'ı Seçmeliyim?",
-            "description": "Macaristan, yatırımcılar ve yabancı uyruklular için birçok avantaj sunmaktadır.",
-            "point1": "AB ve Schengen bölgesine erişim",
-            "point2": "Kolaylaştırılmış başvuru süreci, minimum kalış şartı yok",
-            "point3": "Düşük kurumlar vergisi (%9 - Avrupa'nın en düşüğü)",
-            "imageAlt": "Macaristan'ı seçmenin avantajları"
+        "advantages": {
+            "title": "Avantajlar",
+            "description": "Macaristan Yatırımcı Programı birçok avantaj sunar.",
+            "adv1": "AB ve Schengen bölgesine erişim",
+            "adv2": "Asgari kalış süresi zorunluluğu yok",
+            "adv3": "Eş ve çocuklar için uygunluk",
+            "adv4": "Avrupa’nın en düşük kurumlar vergisi oranı (%9)",
+            "adv5": "8 yıl ikamet sonrası vatandaşlığa geçiş",
+            "imageAlt": "Avantajlar görseli"
         },
-        "preview3": {
-            "title": "Kimler Başvurabilir?",
-            "description": "Macaristan Yatırımcı Vizesi'ne başvurabilmek için adayların aşağıdaki kriterleri karşılaması gerekmektedir.",
-            "point1": "AB vatandaşı olmamak",
-            "point2": "Adli sicil kaydı bulunmamak",
-            "point3": "En az €250,000 değerinde onaylı fona yatırım yapmak",
-            "imageAlt": "Macaristan yatırımcı vizesine uygunluk"
+        "requirements": {
+            "title": "Temel Gereksinimler",
+            "description": "Programa başvurmak için gereken temel şartlar:",
+            "req1": "Adli sicil kaydı bulunmaması",
+            "req2": "Yatırım için gerekli paranın ispatı",
+            "req3": "Durum tespiti (due diligence) kontrollerinden geçilmesi",
+            "req4": "Yatırımın belirtilen sürede tamamlanması",
+            "req5": "Yatırımın en az 5 yıl süreyle korunması",
+            "imageAlt": "Gereksinimler görseli"
         },
-        "learnMore": "Daha Fazla Bilgi Edinin"
+        "fund": {
+            "title": "SPRINT Tarafından Yönetilen Gayrimenkul Yatırım Fonu",
+            "description": "SPRINT ASSET Hungária Zrt, SPRINT Gayrimenkul Geliştirme ve Yatırım Fonu’nu yönetmektedir. Fon, 15 Ağustos 2024 tarihinde Macaristan Denetim Kurumu tarafından onaylanmıştır. Misafir Yatırımcı Oturma İzni almak için SPRINT Fonuna en az 250.000 EUR yatırım yapılması gerekmektedir. Yatırım kanıtı olarak bir yatırım sertifikası verilecek olup, bu belge başvuru sürecinde zorunludur. Bu yatırım, oturma izninin korunabilmesi için en az beş yıl süreyle tutulmalıdır.",
+            "imageAlt": "Fon bilgisi görseli"
+        },
+        "brosurTitle": "Bilgilendirici Broşür",
+        "brosurDescription": "Program hakkında daha fazla bilgi almak için broşürümüzü indirebilirsiniz.",
+        "downloadBrochure": "Broşürü İndir"
+    },
+    "Process": {
+        "title": "Süreç",
+        "description": "Misafir Yatırımcı Vizesi ve Oturma İzni başvuru sürecinin adımları",
+        "step1": {
+            "title": "Danışmanlık randevusu alın",
+            "description": "Süreç hakkında detaylı bilgi almak ve kişisel durumunuzu değerlendirmek için bir danışmanlık randevusu alın."
+        },
+        "step2": {
+            "title": "Durum tespiti kontrolleri gerçekleştirilir",
+            "description": "Başvuru sahibinin geçmişi ve mali durumu incelenir, gerekli belgeler kontrol edilir."
+        },
+        "step3": {
+            "title": "Misafir Yatırımcı Vizesi başvurusu yapılır",
+            "description": "Misafir Yatırımcı Vizesi için başvuru yapılır ve yatırım taahhüdü resmi olarak beyan edilir."
+        },
+        "step4": {
+            "title": "Yatırımın tamamlanması için Macaristan'a seyahat edilir",
+            "description": "Yatırım işlemlerini tamamlamak ve gerekli belgeleri imzalamak için Macaristan'a seyahat edilmesi gerekir."
+        },
+        "step5": {
+            "title": "Oturma izni başvurusu yapılır",
+            "description": "Yatırım tamamlandıktan sonra, oturma izni başvurusu resmi olarak yapılır."
+        },
+        "step6": {
+            "title": "Biyometrik veriler için tekrar Macaristan'a gidilir",
+            "description": "Parmak izi ve fotoğraf gibi biyometrik verilerin alınması için tekrar Macaristan'a gidilmesi gerekir."
+        },
+        "step7": {
+            "title": "1-2 ay içinde onay alınır",
+            "description": "Başvuru değerlendirildikten sonra, genellikle 1-2 ay içinde başvuru sonucu bildirilir."
+        },
+        "step8": {
+            "title": "Oturma izni belgesi verilir",
+            "description": "Başvuru onaylandıktan sonra, oturma izni belgesi başvuru sahibine teslim edilir."
+        }
+    },
+    "FAQ": {
+        "title": "Sıkça Sorulan Sorular",
+        "q1": {
+            "question": "Misafir Yatırımcı Vizesi için minimum yatırım miktarı nedir?",
+            "answer": "Misafir Yatırımcı Vizesi için minimum yatırım miktarı genellikle 250.000 Euro'dur. Bu yatırım, Macaristan'da onaylanmış yatırım fonları veya gayrimenkul gibi belirli alanlarda yapılmalıdır."
+        },
+        "q2": {
+            "question": "Oturma izni ne kadar süre geçerlidir?",
+            "answer": "İlk oturma izni genellikle 2 yıl süreyle verilir. Daha sonra, belirli koşullar sağlandığında 3 yıl daha uzatılabilir. 5 yıl yasal ikamet sonrasında, daimi oturma izni veya vatandaşlık için başvurabilirsiniz."
+        },
+        "q3": {
+            "question": "Aile üyelerimi de getirebilir miyim?",
+            "answer": "Evet, Misafir Yatırımcı Vizesi programı kapsamında eşiniz ve 18 yaşın altındaki çocuklarınız da sizinle birlikte oturma izni alabilir. Aile üyeleriniz için ek belgeler ve başvuru ücretleri gerekecektir."
+        },
+        "q4": {
+            "question": "Başvuru için hangi belgeler gereklidir?",
+            "answer": "Gerekli belgeler arasında pasaport, doğum belgesi, evlilik cüzdanı (varsa), adli sicil kaydı, sağlık sigortası, mali durum beyanı, banka hesap dökümleri ve yatırım planı bulunmaktadır. Tüm belgelerin Macarca'ya tercüme edilmesi ve apostil tasdiki yapılması gerekmektedir."
+        },
+        "q5": {
+            "question": "Macaristan'da ne kadar süre kalmam gerekiyor?",
+            "answer": "Oturma izni sahibi olarak Macaristan'da minimum kalma süresi yılda 90 gündür. Ancak, daimi oturma izni veya vatandaşlık başvurusu için daha uzun süreler gerekebilir."
+        },
+        "q6": {
+            "question": "Yatırımımı ne zaman geri çekebilirim?",
+            "answer": "Yatırımınızı genellikle oturma izninizin süresi dolmadan geri çekemezsiniz. Çoğu durumda, yatırımın minimum 5 yıl süreyle tutulması gerekmektedir. Erken çekim durumunda oturma izniniz iptal edilebilir."
+        },
+        "q7": {
+            "question": "Başvuru süreci ne kadar sürer?",
+            "answer": "Tüm belgeler eksiksiz olarak sunulduğunda, başvuru süreci genellikle 3-4 ay sürer. Bu süre, durum tespiti kontrolleri, başvuru işlemleri ve oturma izni onayını içerir."
+        },
+        "q8": {
+            "question": "Macaristan vatandaşlığına başvurabilir miyim?",
+            "answer": "Evet, 8 yıl yasal ikamet sonrasında Macaristan vatandaşlığına başvurabilirsiniz. Vatandaşlık başvurusu için Macarca dil sınavını geçmeniz ve Macaristan kültürü ve tarihi hakkında temel bilgilere sahip olmanız gerekmektedir."
+        },
+        "q9": {
+            "question": "Schengen bölgesinde serbest dolaşım hakkım olacak mı?",
+            "answer": "Evet, Macaristan oturma izni ile Schengen bölgesinde 180 günlük herhangi bir dönemde 90 güne kadar vizesiz seyahat edebilirsiniz. Ancak, çalışma izni olmadan diğer Schengen ülkelerinde çalışamazsınız."
+        },
+        "q10": {
+            "question": "Başvuru ücretleri ne kadardır?",
+            "answer": "Başvuru ücretleri kişi başına yaklaşık 110 Euro'dur. Buna ek olarak, biyometrik oturma izni kartı için yaklaşık 60 Euro ve danışmanlık hizmetleri için ek ücretler ödemeniz gerekebilir."
+        },
+        "contactTitle": "Bizimle İletişime Geçin",
+        "contactDescription": "Danışmanlık almak için bizimle iletişime geçin.",
+        "contactButton": "WhatsApp üzerinden iletişime geç"
+    },
+    "Partner": {
+        "header": {
+            "title": "Glokey: Türkiye'deki Tek Yetkili Quantum Ortağı",
+            "subtitle": "Vatandaşlık ve yatırım yoluyla ikamet programlarında uzmanlaşmış çözüm ortağınız"
+        },
+        "content": {
+            "paragraph1": "Glokey, vatandaşlık ve yatırım yoluyla ikamet programlarına kapsamlı uzmanlık getiren Quantum'un Türkiye'deki münhasır ortağı olmaktan gurur duymaktadır. Uzun yıllara dayanan deneyimiyle Glokey, yüksek net değere sahip bireylere ve yatırımcılara küresel göç programlarının karmaşıklıklarını yönetme konusunda başarılı bir şekilde yardımcı olmuş ve yurtdışındaki yeni fırsatlara sorunsuz geçişler sağlamıştır.",
+            "paragraph2": "Ayrıca, Glokey yıllar içinde Türk-Macar ticari ilişkilerini güçlendirmede, iki ülke arasındaki sınır ötesi yatırımı ve ekonomik iş birliğini teşvik etmede önemli bir rol oynamıştır.",
+            "paragraph3": "Quantum'un Türkiye'deki tek ortağı olan Glokey, Macaristan Misafir Oturma İzni almak isteyen danışanlarla yakın iş birliği içinde çalışarak süreç boyunca uçtan uca destek sağlamaktadır. Glokey, ilk danışmadan son onaya kadar her müşterinin kişiselleştirilmiş rehberlik almasını sağlayarak sorunsuz ve verimli bir başvuru yolculuğunu kolaylaştırır. Glokey, engin tecrübesiyle ve Quantum ile olan güçlü ortaklığıyla danışanlarının isteklerini gerçeğe dönüştürmeyi amaçlamaktadır."
+        },
+        "steps": {
+            "title": "Glokey Nasıl Çalışmaktadır?",
+            "step1": "İhtiyaç ve hedeflerinizi anlamak için kapsamlı bir danışmanlık yapılır",
+            "step2": "Size özel yatırım programı hakkında tüm bilgiler sağlanır",
+            "step3": "Gerekli belgelerin toplanması ve düzenlenmesinde destek verilir",
+            "step4": "Türkiye'deki tüm adımlar sorunsuzca yürütülür",
+            "step5": "Macaristan'daki işlemler Quantum ile birlikte gerçekleştirilir"
+        },
+        "cta": {
+            "title": "Daha fazla bilgi için",
+            "button": "Danışmanlık için Glokey ile iletişime geçin"
+        }
     },
     "VisionPreview": {
         "title": "Vizyonumuz",
@@ -86,27 +202,40 @@
         "messageLabel": "Mesaj",
         "messagePlaceholder": "Mesajınızı buraya yazın...",
         "submitButton": "Mesaj Gönder",
+        "submittingButton": "Gönderiliyor...",
+        "formSuccessMessage": "Mesajınız başarıyla gönderildi!",
+        "formErrorMessage": "Form gönderilirken hata oluştu",
         "contactInfo": "İletişim Bilgileri",
         "addressTitle": "Adres",
-        "address": "Quantum Trade Limited",
+        "address": "Kuruçeşme Mahallesi, Öksüz Çocuk Sokak No:6,\nKuruçeşme, Beşiktaş/İstanbul\n34345 Türkiye",
         "emailTitle": "E-posta",
+        "email": "info@glokey.com.tr",
         "phoneTitle": "Telefon",
-        "whatsappButton": "WhatsApp İle İletişim",
-        "formErrorMessage": "Form gönderilirken hata oluştu"
+        "phone": "+90 212 962 01 01",
+        "whatsappButton": "WhatsApp İle İletişim"
     },
     "Footer": {
         "logo": "Şirket Adı",
         "description": "Sürdürülebilir ve yenilikçi yatırımlarla geleceğinizi güvence altına almanıza yardımcı oluyor, finansal başarınızı destekleyen stratejik çözümler sunuyoruz.",
         "quickLinks": "Hızlı Bağlantılar",
         "nav": {
-            "home": "Ana Sayfa",
-            "about": "Hakkımızda",
-            "program": "Programımız",
-            "vision": "Vizyonumuz",
-            "contact": "Bize Ulaşın"
+            "home": "ANA SAYFA",
+            "about": "HAKKIMIZDA",
+            "program": "PROGRAM",
+            "vision": "ÇÖZÜM ORTAĞIMIZ",
+            "contact": "İLETİŞİM"
         },
         "contactInfo": "İletişim Bilgileri",
-        "address": "Quantum Trade Limited",
+        "contact": {
+            "phoneLabel": "Telefon",
+            "phone": "+90 212 962 01 01",
+            "emailLabel": "E-posta",
+            "email": "info@glokey.com.tr",
+            "addressLabel": "Adres",
+            "address": "Kuruçeşme Mahallesi, Öksüz Çocuk Sokak No:6,\nKuruçeşme, Beşiktaş/İstanbul\n34345 Türkiye",
+            "workingHoursLabel": "Çalışma Saatleri",
+            "workingHours": "Pazartesi - Cuma: 9:00 – 19:00\nCumartesi - Pazar: Kapalı"
+        },
         "followUs": "Bizi Takip Edin",
         "copyright": "Tüm hakları saklıdır."
     },

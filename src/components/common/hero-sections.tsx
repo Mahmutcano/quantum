@@ -4,7 +4,6 @@ import { useTranslations } from "next-intl"
 import { Button } from "@/components/ui/button"
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel"
 import Autoplay from "embla-carousel-autoplay"
-import { FileText } from "lucide-react"
 import { useRef } from "react"
 
 export function HeroSection() {
@@ -19,28 +18,6 @@ export function HeroSection() {
       window.history.pushState(null, "", `#${id}`) // URL güncelleme
     } else {
       window.location.href = `/#${id}` // Eğer sayfada değilse yönlendir
-    }
-  }
-
-  const handleDownload = async () => {
-    try {
-      const response = await fetch("/api/download")
-
-      if (!response.ok) {
-        throw new Error("Dosya indirilemedi!")
-      }
-
-      const blob = await response.blob()
-      const url = window.URL.createObjectURL(blob)
-      const a = document.createElement("a")
-      a.href = url
-      a.download = "Quantum_Brouer.pdf"
-      document.body.appendChild(a)
-      a.click()
-      document.body.removeChild(a)
-      window.URL.revokeObjectURL(url)
-    } catch (error) {
-      console.error("Dosya indirme hatası:", error)
     }
   }
 
@@ -72,10 +49,6 @@ export function HeroSection() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-white">{t("title")}</h1>
             <p className="text-xl text-white/80 mt-6">{t("subtitle")}</p>
             <div className="flex flex-col sm:flex-row gap-4 mt-8">
-              <Button size="lg" className="gap-2 cursor-pointer" onClick={handleDownload}>
-                <FileText className="h-5 w-5" />
-                {t("downloadBrochure")}
-              </Button>
               <Button className="cursor-pointer" size="lg" variant="outline" asChild>
                 <span
                   onClick={() => handleScrollToSection("contact")}

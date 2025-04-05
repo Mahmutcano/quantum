@@ -1,8 +1,8 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import { Button } from "../ui/button";
 import { FileText } from "lucide-react";
+import { Button } from "@/components/ui/button";
 
 const previews = [
   {
@@ -55,7 +55,7 @@ const previews = [
   }
 ];
 
-export function AboutPreviewSection() {
+export default function ProgramPage() {
   const t = useTranslations("AboutPreview");
 
   const handleDownload = async () => {
@@ -103,7 +103,7 @@ export function AboutPreviewSection() {
               <img
                 src={preview.image}
                 alt={t(preview.imageAlt)}
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover shadow-2xl"
                 width={24}
                 height={24}
               />

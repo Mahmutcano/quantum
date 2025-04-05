@@ -9,7 +9,7 @@ import { MapPin, Mail, Phone } from "lucide-react";
 import { useState, FormEvent } from "react";
 import Image from "next/image";
 
-export function ContactSection() {
+export default function ContactPage() {
     const t = useTranslations("Contact");
     const formEmail = "quantumtradelimited@gmail.com"; // Email where form submissions will be sent
 

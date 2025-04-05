@@ -3,7 +3,7 @@
 import { useTranslations } from "next-intl";
 import { CheckCircle } from "lucide-react";
 
-export function FeaturesSection() {
+export default function AboutPage() {
   const t = useTranslations("Features");
 
   const supportPoints = [
@@ -15,7 +15,7 @@ export function FeaturesSection() {
   ];
 
   return (
-    <section className="py-8 md:py-20 bg-muted text-foreground">
+    <section className="py-8 md:py-20 bg-muted/50 text-foreground">
       <div className="mx-auto px-6 md:px-12 max-w-4xl space-y-12 text-center">
         {/* Başlık */}
         <div>
@@ -36,11 +36,11 @@ export function FeaturesSection() {
             {supportPoints.map((point, index) => (
               <li key={index} className="flex items-center gap-3">
                 <CheckCircle className="w-5 h-5 text-primary mt-1 shrink-0" />
-                <span className="text-base text-muted-foreground">{point}</span>
+                <span className="text-base text-muted-foreground text-start">{point}</span>
               </li>
             ))}
           </ul>
-          <p className="text-base text-muted-foreground mt-4">{t("support.note")}</p>
+          <p className="text-base text-muted-foreground mt-4 text-center">{t("support.note")}</p>
         </div>
       </div>
     </section>
