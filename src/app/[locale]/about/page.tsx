@@ -23,11 +23,11 @@ export default function AboutPage() {
           <p className="text-xl text-muted-foreground">{t("subtitle")}</p>
         </div>
 
-        {/* Açıklama Metinleri */}
+        {/* Açıklama Metinleri
         <div className="space-y-6 text-base leading-relaxed text-muted-foreground">
           <p>{t("paragraph1")}</p>
           <p>{t("paragraph2")}</p>
-        </div>
+        </div> */}
 
         {/* Yardımcı Olur Başlığı ve Maddeler */}
         <div className="space-y-6">

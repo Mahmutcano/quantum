@@ -115,7 +115,10 @@ export default function ProgramPage() {
                 }`}
             >
               <h3 className="text-2xl font-semibold">{t(preview.titleKey)}</h3>
-              <p className="text-muted-foreground">{t(preview.descriptionKey)}</p>
+              {t(preview.descriptionKey).split("\n\n").map((paragraph, i) => (
+                <p key={i} className="text-muted-foreground">{paragraph}</p>
+              ))}
+
 
               {preview.points.length > 0 && (
                 <ul className="space-y-2 text-base">

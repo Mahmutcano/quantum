@@ -23,12 +23,6 @@ export function FeaturesSection() {
           <p className="text-xl text-muted-foreground">{t("subtitle")}</p>
         </div>
 
-        {/* Açıklama Metinleri */}
-        <div className="space-y-6 text-base leading-relaxed text-muted-foreground">
-          <p>{t("paragraph1")}</p>
-          <p>{t("paragraph2")}</p>
-        </div>
-
         {/* Yardımcı Olur Başlığı ve Maddeler */}
         <div className="space-y-6">
           <h3 className="text-2xl font-semibold text-center">{t("support.title")}</h3>

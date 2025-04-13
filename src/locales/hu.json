@@ -4,38 +4,36 @@
     "description": "A Quantum Trade Limited innovatív befektetési és tanácsadási megoldásokat kínál a pénzügyi céljainak elérése érdekében."
   },
   "Navbar": {
-    "home": "Kezdőlap",
+    "home": "OTTHON",
     "program": "PROGRAM",
     "about": "Rólunk",
-    "partner": "Megoldási partnerünk",
-    "contact": "Kommunikáció"
+    "partner": "Partnerünk",
+    "contact": "ÉRINTKEZÉS"
   },
   "Hero": {
-    "title": "Magyar vendég befektetői ülésprogram",
+    "title": "Magyar vendégbefektetői ülésprogram",
     "subtitle": "Az EU egyik legolcsóbb befektetési programja tartózkodási engedélyprogramokon keresztül.",
     "learnMore": "További információ",
-    "contactUs": "Vegye fel velünk a kapcsolatot",
+    "contactUs": "Vegye fel velünk a kapcsolatot konzultációért",
     "imageAlt": "A fő vizuális, amely bemutatja a programunkat",
     "downloadBrochure": "Töltse le a promóciós brosúrát"
   },
   "Features": {
     "title": "Kvantumkereskedelmi korlátozott",
-    "subtitle": "Megbízható partnere a magyar befektetői vízumprogramban",
-    "paragraph1": "A Quantum Trade Limited a Sprint Asset Hungária ZRT megbízható partnere, aki kezeli a Sprint Real Estate Fejlesztési és Befektetési Alapot. Az alap lehetőséget kínál a befektetők számára, hogy tartózkodási engedélyt szerezzenek a képzett befektetésekkel rendelkező magyar vendégbefektetők számára. A vendégbefektetői tartózkodási engedélyezési program legalább 250 000 EUR beruházást igényel az alapba annak érdekében, hogy befektetés révén jogosult legyen a tartózkodási programra.",
-    "paragraph2": "A Quantum Trade Limited vezető vállalatként működik a nemzetközi befektetések és tanácsadás területén. A társaság célja, hogy innovatív és hatékony megoldásokkal segítse az ügyfeleket befektetési céljaik elérésében. A Quantum sok hosszú éves tapasztalattal rendelkezik, amely befektetési tanácsadási szolgáltatásokat nyújt világszerte ügyfeleinek. A program kezdete óta sok befektetőnek segítettünk a magyar vendég befektetői tartózkodási engedély megszerzésében.",
+    "subtitle": "Az exkluzív török ​​partnerünkkel, a Glokey -vel együttműködve a Quantum átfogó támogatást nyújt az utazás minden szakaszában a magyar vendég befektetői tartózkodási engedély megszerzéséhez. ",
     "support": {
       "title": "Hogyan segít a Quantum?",
-      "point1": "Tanácsadás a program követelményeiről és előnyeiről",
-      "point2": "A szükséges dokumentumok gyűjtése és előkészítése",
-      "point3": "Ne kísérj téged a Magyarországi találkozókon",
-      "point4": "Útmutatás és dokumentum kézbesítése a jelentkezési folyamatban",
-      "point5": "Megszakítás nélküli támogatás előtt, sorrendben és az alkalmazás után",
-      "note": "A Quantum segítségével ezt a folyamatot biztonságosan és könnyen kezelheti."
+      "point1": "Tanácsadás a program követelményeivel és előnyeivel kapcsolatban",
+      "point2": "Segíteni az összes szükséges dokumentum összegyűjtésében és elkészítésében",
+      "point3": "Kísérve a találkozókra Magyarországon",
+      "point4": "Vezeti Önt a jelentkezési folyamaton és az összes szükséges dokumentáció benyújtásához",
+      "point5": "Küldött támogatás nyújtása az alkalmazás előtt, alatt és után",
+      "note": "Az Ön oldalán lévő Quantum segítségével magabiztosan és könnyedén navigálhat a tartózkodási folyamatban."
     }
   },
   "AboutPreview": {
     "title": "Program",
-    "subtitle": "Tudjon meg többet cégünkről, szakértői csapatunkról a saját területükről és a jövőbeli elképzelésünkről.",
+    "subtitle": "A magyar befektetői vízumprogram egy befektetési kezdeményezés rezidenciája, amely lehetővé teszi a külföldi befektetők számára, hogy befektetéssel szerezzék be a magyarországi lakóhelyet.",
     "summary": {
       "title": "Programösszegzés",
       "description": "",
@@ -48,8 +46,8 @@
       "title": "Előnyök",
       "description": "A magyar befektetői program számos előnyt kínál.",
       "adv1": "Hozzáférés az EU és a Schengeni régióba",
-      "adv2": "A minimális tartózkodás sem kötelező",
-      "adv3": "A házastársak és a gyermekek betartása",
+      "adv2": "Nincs minimális tartózkodási követelmény ",
+      "adv3": "Jogosultság a házastárs és a gyermekek számára",
       "adv4": "Európa legalacsonyabb társasági adómértéke (9%)",
       "adv5": "8 év átmenet a rezidencia utáni állampolgárságra",
       "imageAlt": "Előnyök"
@@ -57,16 +55,16 @@
     "requirements": {
       "title": "Alapvető követelmények",
       "description": "A programra való jelentkezéshez szükséges alapvető feltételek:",
-      "req1": "Nincs bírói regisztráció",
-      "req2": "A befektetéshez szükséges pénz igazolása",
-      "req3": "Az átvilágítás átadása)",
-      "req4": "A beruházás befejezése a megadott időn belül",
-      "req5": "A beruházás védelme legalább 5 évig",
+      "req1": "Nincs bűnügyi nyilvántartás",
+      "req2": "Van igazolása a befektetési pénzeszközökről",
+      "req3": "Átadja az átvilágítási ellenőrzéseket",
+      "req4": "Befektetés végrehajtása a megadott időkereten belül",
+      "req5": "A beruházásokat legalább 5 évig kell fenntartani",
       "imageAlt": "Követelmény"
     },
     "fund": {
       "title": "A Sprint által kezelt ingatlanbefektetési alap",
-      "description": "A Sprint Asset Hungária ZRT kezeli a sprint ingatlanfejlesztési és befektetési alapot. Az alapot a magyar könyvvizsgálói hatóság 2024 augusztus 15 -én hagyta jóvá. A tartózkodási engedély megszerzése érdekében a vendégbefektetőnek legalább 250 000 EUR -t kell befektetnie a Sprint Alapba. Befektetési igazolást adnak a befektetés igazolására, és ez a dokumentum kötelező a jelentkezési folyamatban. Ezt a beruházást legalább öt évig meg kell őrizni a tartózkodási engedély fenntartása érdekében.",
+      "description": "A Sprint Asset Hungária ZRT kezeli a Sprint Real Estate Fejlesztési és Befektetési Alapot. ",
       "imageAlt": "Fund Information Image"
     },
     "brosurTitle": "Informatív brosúra",
@@ -75,17 +73,17 @@
   },
   "Process": {
     "title": "Időszak",
-    "description": "A látogató befektetői vízum és a tartózkodási engedély kérelmezési folyamatának lépései",
+    "description": "A vendégbefektető vízumának lépései és az ülés engedélyének jelentkezési folyamat",
     "step1": {
-      "title": "Kapjon egy tanácsadási találkozót",
+      "title": "Kapjon konzultációs találkozót",
       "description": "Kérjen tanácsadási kinevezést, hogy részletes információkat szerezzen a folyamatról és értékelje személyes helyzetét."
     },
     "step2": {
-      "title": "Az állapotérzékelő vezérlőket végrehajtják",
+      "title": "Az átvilágítási ellenőrzéseket végezzük",
       "description": "Megvizsgálják a kérelmező történelmét és pénzügyi helyzetét, és ellenőrzik a szükséges dokumentumokat."
     },
     "step3": {
-      "title": "A vendégbefektetői vízumkérelem",
+      "title": "A tartózkodási engedély kérelmét készítik",
       "description": "A vendégbefektetői vízum iránti kérelmet nyújtják be, és a befektetési kötelezettségvállalást hivatalosan bejelentették."
     },
     "step4": {
@@ -97,81 +95,85 @@
       "description": "A beruházás befejezése után a tartózkodási engedély kérelmét hivatalosan készítik."
     },
     "step6": {
-      "title": "Lépjen Magyarországra biometrikus adatokért",
+      "title": "Látogasson el Magyarországra a biometria biztosításához.",
       "description": "A biometrikus adatok, például az ujjlenyomatok és a fényképek fogadásához újra el kell mennie Magyarországra."
     },
     "step7": {
-      "title": "1-2 hónapon belül jóváhagyva",
+      "title": "Jóváhagyás 1-2 hónapon belül.",
       "description": "Az alkalmazás értékelése után az alkalmazást általában 1-2 hónapon belül értesítik."
     },
     "step8": {
-      "title": "Ülési engedély igazolást adnak",
+      "title": "A tartózkodási engedély kiadásra kerül",
       "description": "A kérelem jóváhagyása után a tartózkodási engedély igazolását benyújtják a kérelmezőnek."
     }
   },
   "FAQ": {
     "title": "Gyakran feltett kérdéseket",
     "q1": {
-      "question": "Mekkora a vendégbefektetői vízum minimális befektetési összege?",
-      "answer": "A vendégbefektetői vízum minimális befektetési összege általában 250 000 euró. Ezt a beruházást bizonyos területeken, például jóváhagyott befektetési alapokon vagy ingatlanokban kell végrehajtani Magyarországon."
+      "question": "Mekkora a minimális befektetési összeg a magyar vendég befektetői tartózkodási engedélyhez?",
+      "answer": "A minimális befektetési összeg 250 000 EUR"
     },
     "q2": {
-      "question": "Mennyi ideig érvényes a tartózkodási engedély?",
-      "answer": "Az első tartózkodási engedélyt általában 2 évre adják meg. Ezután, ha bizonyos feltételek teljesülnek, akkor 3 évre meghosszabbítható. Öt éves jogi tartózkodási hely után állandó tartózkodási engedélyt vagy állampolgárságot kérhet."
+      "question": "Mi a tartózkodási engedély érvényessége?",
+      "answer": "A tartózkodási engedély 10 évig érvényes, és további 10 évig megújítható."
     },
     "q3": {
       "question": "Hozhatom a családtagjaimat?",
-      "answer": "Igen, a vendégbefektetői vízumprogram keretein belül a házastárs és a 18 év alatti gyermekei tartózkodási engedélyt kaphatnak. További dokumentumokra és jelentkezési díjakra lesz szükség a családtagok számára."
+      "answer": "Igen, a vendégbefektetői vízumprogram keretein belül a házastárs és a 18 év alatti gyermekei tartózkodási engedélyt kaphatnak."
     },
     "q4": {
-      "question": "Mely dokumentumokra van szükség a kérelemhez?",
-      "answer": "A szükséges dokumentumok közé tartozik az útlevél, születési anyakönyvi kivonat, házassági anyakönyvi kivonat (ha van), bírósági nyilvántartásba vétel, egészségbiztosítás, pénzügyi állami nyilatkozat, bankszámla -bontás és befektetési terv. Az összes dokumentumot le kell fordítani magyarba és az Apostille tanúsítását."
+      "question": "Melyek a kérelemhez szükséges dokumentumok?",
+      "answer": "A szükséges dokumentumok tartalmaznak egy érvényes útlevelet, a beruházás igazolását, az egészségbiztosítást, a tiszta bűnügyi nyilvántartást és az egyéb támogató dokumentumokat."
     },
     "q5": {
-      "question": "Meddig kell maradnom Magyarországon?",
-      "answer": "Rezidencia engedélyként a minimális időtartam Magyarországon évente 90 nap. Az állandó tartózkodási engedélyhez vagy az állampolgársági kérelemhez azonban hosszabb időtartamra lehet szükség."
+      "question": "A kérelmezőnek meg kell látogatnia Magyarországot a jelentkezési folyamat során vagy után?",
+      "answer": "A pályázóknak meg kell látogatniuk Magyarországot, hogy befejezzék beruházásaikat és benyújthassák a biometrikus anyagokat a jelentkezési folyamat során."
     },
     "q6": {
-      "question": "Mikor vonhatom vissza a beruházásomat?",
-      "answer": "A tartózkodási engedély lejárta előtt nem vonhatja vissza befektetését. A legtöbb esetben a beruházást legalább 5 évig kell tartani. A korai lövöldözés esetén a tartózkodási engedély törölhető."
+      "question": "Van -e minimális tartózkodási követelmény az engedély fenntartására?",
+      "answer": "Nem, nincs minimális tartózkodási követelmény."
     },
     "q7": {
-      "question": "Mennyi ideig tart a jelentkezési folyamat?",
-      "answer": "Ha az összes dokumentumot teljesen bemutatják, a jelentkezési folyamat általában 3-4 hónapot vesz igénybe. Ez az idő magában foglalja az állapotérzékelés ellenőrzését, jelentkezési eljárásait és a tartózkodási engedély jóváhagyását."
+      "question": "Mikor vonhatom vissza a beruházásomat?",
+      "answer": "A beruházást legalább öt évig kell megtartani a tartózkodási engedély fenntartása érdekében."
     },
     "q8": {
-      "question": "Jelentkezhetek a magyar állampolgárságra?",
-      "answer": "Igen, 8 éves jogi lakóhely után jelentkezhet magyar állampolgárságra. Az állampolgársági kérelemhez át kell tennie a magyar nyelvvizsgát, és alapvető információkkal kell rendelkeznie a magyarországi kultúráról és történelemről."
+      "question": "Mennyi ideig tart a jelentkezési folyamat?",
+      "answer": "Ha az összes dokumentumot teljesen bemutatják, a jelentkezési folyamat általában 3-4 hónapot vesz igénybe."
     },
     "q9": {
-      "question": "Jogom lesz a szabad mozgáshoz a schengeni régióban?",
-      "answer": "Igen, tartózkodási engedélyével a schengeni térségben akár 90 napig utazhat vízum nélkül a schengeni régióban. Munka engedély nélkül azonban nem dolgozhat más schengeni országokban."
+      "question": "Jelentkezhetek a magyar állampolgárságra?",
+      "answer": "Igen, 8 éves jogi lakóhely után jelentkezhet magyar állampolgárságra."
     },
     "q10": {
+      "question": "Szabadon utazhatok Európán belül ezzel a tartózkodási engedélyrel?",
+      "answer": "Igen, ez az engedély lehetővé teszi a vízummentes utazást a Schengen-övezetben, akár 90 napig egy 180 napos időszakon belül."
+    },
+    "q11": {
       "question": "Melyek a jelentkezési díjak?",
-      "answer": "A jelentkezési díjak személyenként körülbelül 110 euró. Ezenkívül előfordulhat, hogy a biometrikus tartózkodási engedélykártyáért körülbelül 60 euró és további díjakat kell fizetnie a tanácsadási szolgáltatásokért."
+      "answer": "Vegye fel velünk a kapcsolatot, hogy teljes információt szerezzen az érintett díjakról."
     },
     "contactTitle": "Vegye fel velünk a kapcsolatot",
     "contactDescription": "Vegye fel velünk a kapcsolatot, hogy tanácsadást kapjon.",
-    "contactButton": "Vegye fel a kapcsolatot a WhatsApp segítségével"
+    "contactButton": "Vegye fel velünk a kapcsolatot a WhatsApp -on"
   },
   "Partner": {
     "header": {
-      "title": "Glockey: Az egyetlen engedélyezett kvantumpartner Türkiye -ben",
-      "subtitle": "Az Ön megoldási partnere, amely a tartózkodási programokra szakosodott állampolgárság és befektetés révén"
+      "title": "Glokey: A Quantum exkluzív partnere a Türkiye -ben",
+      "subtitle": "Az Ön megoldási partnere, amely a befektetési programok rezidenciájára szakosodott."
     },
     "content": {
-      "paragraph1": "A Glockey büszke arra, hogy a Quantum kizárólagos partnere, amely átfogó szakértelmet nyújt a lakóhelyi programok számára az állampolgárság és a beruházások révén. Sok éves tapasztalattal rendelkező Glockey sikeresen segített a magas nettó értékű egyéneknek és befektetőknek a globális migrációs programok bonyolultságának kezelésében, és problémamentes átmeneteket nyújtott az új külföldi lehetőségekre.",
-      "paragraph2": "Ezenkívül a Glockey fontos szerepet játszott a török-magyar kereskedelmi kapcsolatok megerősítésében, valamint a két ország közötti határokon átnyúló beruházások és gazdasági együttműködés ösztönzésében.",
-      "paragraph3": "A Glokey, a Türkiye -ben a Quantum egyetlen partnere, szoros együttműködésben dolgozik azokkal az ügyfelekkel, akik vendég tartózkodási engedélyt akarnak szerezni, és végső támogatást nyújtanak a folyamat során. A Glockey megkönnyíti a zökkenőmentes és hatékony jelentkezési utat azáltal, hogy személyre szabott útmutatást nyújt minden ügyfél számára az első konzultációtól az utolsó jóváhagyásig. A Glokey hatalmas tapasztalatával és szoros partnerségével a Quantummal célja az ügyfelek kívánságainak megvalósítása."
+      "paragraph1": "A Glokey büszke arra, hogy a Türkiye -ben a Quantum exkluzív partnere, és a befektetési programok által kiterjedt szakértelemmel jár az állampolgárság és a tartózkodás területén.",
+      "paragraph2": "Ezenkívül az évek során a Glokey kulcsszerepet játszott a török-magyar kereskedelmi kapcsolatok megerősítésében, a határokon átnyúló beruházások előmozdításában és a két nemzet közötti gazdasági együttműködésben.",
+      "paragraph3": "Mivel a Quantum exkluzív partnere a Türkiye-ben, a Glokey szorosan együttműködik azokkal az ügyfelekkel, akik a magyar vendég tartózkodási engedély megszerzésére törekszenek, és teljes körű támogatást nyújtanak a folyamat során."
     },
     "steps": {
-      "title": "Hogyan működik a Glockey?",
-      "step1": "Átfogó tanácsadást végeznek az Ön igényeinek és céljainak megértése érdekében.",
-      "step2": "Minden információt a speciális befektetési programról nyújtanak",
-      "step3": "A támogatást a szükséges dokumentumok gyűjtése és elrendezése adja meg",
-      "step4": "A Türkiye minden lépését simán hajtják végre",
-      "step5": "A magyarországi tranzakciókat kvantummal hajtják végre"
+      "title": "Hogyan működik veled a Glokey?",
+      "step1": "Átfogó konzultációt folytatnak az Ön igényeinek és céljainak megértése érdekében.",
+      "step2": "Részletes információkat nyújtanak a lakóhelyről befektetési programonként.",
+      "step3": "Támogatást kínálnak a szükséges dokumentumok gyűjtéséhez és megszervezéséhez.",
+      "step4": "A Türkiye összes eljárását zökkenőmentesen kezelik.",
+      "step5": "A magyarországi tranzakciókat a Quantummal együttműködve hajtják végre."
     },
     "cta": {
       "title": "További információkért",
@@ -180,7 +182,7 @@
   },
   "VisionPreview": {
     "title": "Látásunk",
-    "description": "A Quantum Trade Limited -ként arra törekszünk, hogy vezetővé váljunk az átláthatósággal, a megbízhatósággal és a fenntartható növekedési alapelvekkel kapcsolatos globális befektetések és tanácsadás területén. Elképzelésünk az, hogy innovatív és hosszú távú megoldásokat kínáljunk, amelyek erősítik ügyfeleinket és segítenek nekik pénzügyi céljaik elérésében.",
+    "description": "A Quantum Trade Limitedként arra törekszünk, hogy vezetővé váljunk az átláthatósággal, a megbízhatósággal és a fenntartható növekedési alapelvekkel kapcsolatos globális befektetések és tanácsadás területén. ",
     "point1": "Innovatív és fenntartható befektetési megoldások biztosításához, hogy ügyfeleink számára a legmagasabb értéket biztosítsák.",
     "point2": "A befektetési folyamatok hatékonyabbá és hozzáférhetőbbé tétele a technológia és a pénzügyi innovációk felhasználásával.",
     "point3": "Megbízható tanácsadási platform létrehozása, amely lehetővé teszi a befektetőink számára, hogy biztonságosan elérjék céljaikat.",
@@ -190,24 +192,28 @@
   },
   "Contact": {
     "title": "Érintkezés",
-    "subtitle": "Van kérdése? Azért vagyunk itt, hogy segítsünk. Vegye fel velünk a kapcsolatot az alábbi űrlap segítségével.",
+    "subtitle": "Van kérdése? ",
     "formTitle": "Küldjön nekünk egy üzenetet",
-    "formDescription": "Töltse ki az űrlapot, a lehető leghamarabb visszatérünk Önhöz.",
+    "formDescription": "Töltse ki az űrlapot, és mi visszatérünk hozzád.",
     "nameLabel": "Név",
     "namePlaceholder": "Írja be a nevét",
     "emailLabel": "Email",
     "emailPlaceholder": "Írja be az e-mail címét",
     "subjectLabel": "Téma",
-    "subjectPlaceholder": "Mi van ezzel?",
+    "subjectPlaceholder": "Mi a kérdése?",
     "messageLabel": "Üzenet",
     "messagePlaceholder": "Írja ide az üzenetét ...",
+    "phoneLabel": "Telefonszám",
+    "phonePlaceholder": "Írja be a telefonszámát",
+    "countryLabel": "Ország",
+    "countryPlaceholder": "Írja be az országát",
     "submitButton": "Üzenet küldése",
     "submittingButton": "Feladva ...",
     "formSuccessMessage": "Üzenetét sikeresen elküldtük!",
     "formErrorMessage": "Hiba történt egy űrlap elküldésekor",
     "contactInfo": "Kapcsolattartási adatok",
     "addressTitle": "Cím",
-    "address": "Kuruçeşme Mahallesi, Ökzi Çocuk utca száma: 6,\nKuruçeşme, Beşiktaş/İstanbul\n34345 Türkiye",
+    "address": "Kuruçeşme Mahallesi, Ökzi Çocuk utca száma: 6,\n",
     "emailTitle": "Email",
     "email": "info@lokey.com.tr",
     "phoneTitle": "Telefon",
@@ -217,24 +223,25 @@
   "Footer": {
     "logo": "Társaság neve",
     "description": "Segítünk abban, hogy fenntartható és innovatív beruházásokkal biztosítsuk jövőjét, és stratégiai megoldásokat kínálunk, amelyek támogatják a pénzügyi sikerét.",
-    "quickLinks": "Gyors kapcsolatok",
+    "quickLinks": "Gyors linkek",
     "nav": {
-      "home": "Kezdőlap",
+      "home": "OTTHON",
       "about": "Rólunk",
       "program": "PROGRAM",
-      "vision": "Megoldási partnerünk",
-      "contact": "Kommunikáció"
+      "vision": "Partnerünk",
+      "contact": "ÉRINTKEZÉS"
     },
-    "contactInfo": "Kapcsolattartási adatok",
+    "contactInfo": "Érintkezés",
+    "contactInfoText": "Vegye fel a kapcsolatot a Quantum exkluzív partnerével, amely Türkiye -ben található",
     "contact": {
       "phoneLabel": "Telefon",
       "phone": "+90 212 962 01 01",
       "emailLabel": "Email",
       "email": "info@lokey.com.tr",
       "addressLabel": "Cím",
-      "address": "Kuruçeşme Mahallesi, Ökzi Çocuk utca száma: 6,\nKuruçeşme, Beşiktaş/İstanbul\n34345 Türkiye",
+      "address": "Kuruçeşme Mahallesi, Öksüz Çocuk Sokak szám: 6, Kuruçeşme, Beşiktaş/İstambul 34345 Türkiye",
       "workingHoursLabel": "Munkaidő",
-      "workingHours": "Hétfő - péntek: 9:00 - 19:00\nSzombat - vasárnap: Ki"
+      "workingHours": "Hétfő - péntek: 9:00 - 19:00\n"
     },
     "followUs": "Kövessen minket",
     "copyright": "Minden jog fenntartva."

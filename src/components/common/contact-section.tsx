@@ -104,6 +104,18 @@ export function ContactSection() {
                                     <Input id="subject" name="subject" placeholder={t("subjectPlaceholder")} required />
                                 </div>
                                 <div className="space-y-2">
+                                    <label htmlFor="phone" className="text-sm font-medium">
+                                        {t("phoneLabel")}
+                                    </label>
+                                    <Input id="phone" name="phone" placeholder={t("phonePlaceholder")} required />
+                                </div>
+                                <div className="space-y-2">
+                                    <label htmlFor="country" className="text-sm font-medium">
+                                        {t("countryLabel")}
+                                    </label>
+                                    <Input id="country" name="country" placeholder={t("countryPlaceholder")} required />
+                                </div>
+                                <div className="space-y-2">
                                     <label htmlFor="message" className="text-sm font-medium">
                                         {t("messageLabel")}
                                     </label>

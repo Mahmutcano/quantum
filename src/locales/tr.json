@@ -11,8 +11,8 @@
         "contact": "İLETİŞİM"
     },
     "Hero": {
-        "title": "Macaristan Misafir Yatırımcı Oturum Programı",
-        "subtitle": "AB'nin en uygun fiyatlı yatırım yoluyla oturma izni programlarından biri.",
+        "title": "Macaristan Misafir Yatırımcı İkamet Programı",
+        "subtitle": "Avrupa Birliği’ndeki en cazip yatırım yolu ile ikamet izni programlarından biri",
         "learnMore": "Daha Fazla Bilgi",
         "contactUs": "Bize Ulaşın",
         "imageAlt": "Programımızı gösteren ana görsel",
@@ -20,36 +20,36 @@
     },
     "Features": {
         "title": "Quantum Trade Limited",
-        "subtitle": "Macaristan Yatırımcı Vizesi Programı'nda Yetkili Güvenilir Ortağınız",
+        "subtitle": "Özel Türk ortağımız Glokey ile iş birliği içinde, Quantum Macaristan Misafir Yatırımcı İkamet İzni başvurunuzun her aşamasında kapsamlı destek sunar. İlk danışmanlıktan nihai onaya kadar, süreci sorunsuz bir şekilde tamamlamanızı sağlamak için:",
         "paragraph1": "Quantum Trade Limited, SPRINT Gayrimenkul Geliştirme ve Yatırım Fonu'nu yöneten SPRINT ASSET Hungária Zrt'nin güvenilir bir ortağıdır. Fon, yatırımcılara nitelikli yatırımlarla Macar Misafir Yatırımcı Oturma İzni alma fırsatı sunar. Misafir Yatırımcı Oturma İzni programı, yatırım yoluyla ikamet programına hak kazanabilmek için fona en az 250.000 EUR tutarında yatırım yapılmasını gerektirmektedir.",
         "paragraph2": "Quantum Trade Limited, uluslararası yatırım ve danışmanlık alanında öncü bir şirket olarak faaliyet göstermektedir. Şirket, yenilikçi ve etkili çözümler sunarak müşterilerinin yatırım hedeflerine ulaşmalarına yardımcı olmayı amaçlamaktadır. Quantum, dünya çapındaki müşterilerine yatırım danışmanlığı hizmetleri sunan uzun yıllara dayanan tecrübeye sahiptir. Programın başlangıcından itibaren birçok yatırımcıya Macar Misafir Yatırımcı Oturma İzni almalarında yardımcı olduk.",
         "support": {
             "title": "Quantum Size Nasıl Yardımcı Olur?",
-            "point1": "Programın gereklilikleri ve avantajları hakkında danışmanlık",
-            "point2": "Gerekli belgelerin toplanması ve hazırlanması",
-            "point3": "Macaristan’daki randevularda size eşlik etme",
-            "point4": "Başvuru sürecinde rehberlik ve belge teslimi",
-            "point5": "Başvuru öncesi, sırası ve sonrasında kesintisiz destek",
-            "note": "Quantum ile bu süreci güvenle ve kolaylıkla yönetebilirsiniz."
+            "point1": "Programın gereklilikleri ve avantajları konusunda sizi bilgilendiririz.",
+            "point2": "Gerekli tüm belgelerin toplanması ve hazırlanmasında yardımcı oluruz.",
+            "point3": "Macaristan'daki randevularınızda size eşlik ederiz.",
+            "point4": "Başvuru sürecinde size rehberlik eder, tüm gerekli belgeleri sizin adınıza sunarız.",
+            "point5": "Başvuru öncesinde, sırasında ve sonrasında kesintisiz destek",
+            "note": "Quantum yanınızdayken, oturma izni sürecini güvenle ve kolaylıkla yönetebilirsiniz."
         }
     },
     "AboutPreview": {
         "title": "Program",
-        "subtitle": "Şirketimiz, alanında uzman ekibimiz ve geleceğe yönelik vizyonumuz hakkında daha fazla bilgi edinin.",
+        "subtitle": "Macaristan Yatırımcı Vizesi Programı, yabancı yatırımcıların yatırım yaparak Macaristan’da ikamet izni almalarını sağlayan yatırım yoluyla oturum programıdır.",
         "summary": {
             "title": "Program Özeti",
             "description": "",
             "investment": "Minimum Yatırım: 250.000 EUR",
             "duration": "İşlem Süresi: 3-4 ay",
-            "residency": "Oturma İzni Süresi: 10 yıl (yenilenebilir)",
+            "residency": "İkamet İzni Süresi: 10 yıl (yenilenebilir)",
             "imageAlt": "Program özeti görseli"
         },
         "advantages": {
             "title": "Avantajlar",
             "description": "Macaristan Yatırımcı Programı birçok avantaj sunar.",
             "adv1": "AB ve Schengen bölgesine erişim",
-            "adv2": "Asgari kalış süresi zorunluluğu yok",
-            "adv3": "Eş ve çocuklar için uygunluk",
+            "adv2": "Asgari kalış süresi şartı yoktur",
+            "adv3": "Eş ve çocuklar da dahil edilebilmektedir",
             "adv4": "Avrupa’nın en düşük kurumlar vergisi oranı (%9)",
             "adv5": "8 yıl ikamet sonrası vatandaşlığa geçiş",
             "imageAlt": "Avantajlar görseli"
@@ -57,16 +57,16 @@
         "requirements": {
             "title": "Temel Gereksinimler",
             "description": "Programa başvurmak için gereken temel şartlar:",
-            "req1": "Adli sicil kaydı bulunmaması",
-            "req2": "Yatırım için gerekli paranın ispatı",
-            "req3": "Durum tespiti (due diligence) kontrollerinden geçilmesi",
-            "req4": "Yatırımın belirtilen sürede tamamlanması",
-            "req5": "Yatırımın en az 5 yıl süreyle korunması",
+            "req1": "Sabıka kaydının olmaması",
+            "req2": "Yatırım için yeterli finansal kaynağın belgelenmesi",
+            "req3": "Durum tespiti kontrollerinden geçilmesi",
+            "req4": "Belirlenen süre içinde yatırımın gerçekleştirilmesi",
+            "req5": "Yatırımın en az 5 yıl süreyle korunması gerekmektedir",
             "imageAlt": "Gereksinimler görseli"
         },
         "fund": {
-            "title": "SPRINT Tarafından Yönetilen Gayrimenkul Yatırım Fonu",
-            "description": "SPRINT ASSET Hungária Zrt, SPRINT Gayrimenkul Geliştirme ve Yatırım Fonu’nu yönetmektedir. Fon, 15 Ağustos 2024 tarihinde Macaristan Denetim Kurumu tarafından onaylanmıştır. Misafir Yatırımcı Oturma İzni almak için SPRINT Fonuna en az 250.000 EUR yatırım yapılması gerekmektedir. Yatırım kanıtı olarak bir yatırım sertifikası verilecek olup, bu belge başvuru sürecinde zorunludur. Bu yatırım, oturma izninin korunabilmesi için en az beş yıl süreyle tutulmalıdır.",
+            "title": "SPRINT Gayrimenkul Yatırım Fonu",
+            "description": "SPRINT Gayrimenkul Geliştirme ve Yatırım Fonu SPRINT ASSET Hungária Zrt tarafından yönetmektedir. Fon, 15 Ağustos 2024 tarihinde Macaristan Denetim Kurumu tarafından onaylanmıştır. Misafir Yatırımcı İkamet İzni almak için SPRINT Fonuna en az 250.000 EUR yatırım yapılması gerekmektedir. Yapılan yatırımın kanıtı olarak bir yatırım sertifikası verilecek olup, bu belgenin sunulması başvuru sürecinde zorunludur. Bu yatırım, oturma izninin korunabilmesi için en az beş yıl süreyle korunmalıdır.",
             "imageAlt": "Fon bilgisi görseli"
         },
         "brosurTitle": "Bilgilendirici Broşür",
@@ -77,87 +77,91 @@
         "title": "Süreç",
         "description": "Misafir Yatırımcı Vizesi ve Oturma İzni başvuru sürecinin adımları",
         "step1": {
-            "title": "Danışmanlık randevusu alın",
-            "description": "Süreç hakkında detaylı bilgi almak ve kişisel durumunuzu değerlendirmek için bir danışmanlık randevusu alın."
+            "title": "Danışmanlık Randevusu Alın",
+            "description": "Süreç hakkında detaylı bilgi almak ve kişisel durumunuzu değerlendirmek için Glokey’den bir danışmanlık randevusu alın."
         },
         "step2": {
-            "title": "Durum tespiti kontrolleri gerçekleştirilir",
-            "description": "Başvuru sahibinin geçmişi ve mali durumu incelenir, gerekli belgeler kontrol edilir."
+            "title": "Durum Tespiti Kontrolleri Gerçekleştirilir",
+            "description": "Başvuru sahibinin sicili ve mali durumu incelenir, gerekli belgeler kontrol edilir."
         },
         "step3": {
-            "title": "Misafir Yatırımcı Vizesi başvurusu yapılır",
+            "title": "Misafir Yatırımcı Vizesi Başvurusu Yapılır",
             "description": "Misafir Yatırımcı Vizesi için başvuru yapılır ve yatırım taahhüdü resmi olarak beyan edilir."
         },
         "step4": {
-            "title": "Yatırımın tamamlanması için Macaristan'a seyahat edilir",
-            "description": "Yatırım işlemlerini tamamlamak ve gerekli belgeleri imzalamak için Macaristan'a seyahat edilmesi gerekir."
+            "title": "Yatırımın Tamamlanması İçin Macaristan’a Seyahat Edilir",
+            "description": "Yatırım işlemlerini tamamlamak ve gerekli belgeleri imzalamak için Macaristan'a seyahat edilmesi gerekmektedir."
         },
         "step5": {
-            "title": "Oturma izni başvurusu yapılır",
-            "description": "Yatırım tamamlandıktan sonra, oturma izni başvurusu resmi olarak yapılır."
+            "title": "İkamet İzni Başvurusu Yapılır",
+            "description": "Yatırım işlemleri tamamlandıktan sonra, ikamet izni başvurusu resmi olarak yapılır."
         },
         "step6": {
-            "title": "Biyometrik veriler için tekrar Macaristan'a gidilir",
-            "description": "Parmak izi ve fotoğraf gibi biyometrik verilerin alınması için tekrar Macaristan'a gidilmesi gerekir."
+            "title": "Biyometrik Verilerin Sunulması İçin Macaristan’a Seyahat",
+            "description": "Parmak izi ve fotoğraf gibi biyometrik verilerin sunulması için Macaristan'a gidilmesi gerekmektedir."
         },
         "step7": {
-            "title": "1-2 ay içinde onay alınır",
-            "description": "Başvuru değerlendirildikten sonra, genellikle 1-2 ay içinde başvuru sonucu bildirilir."
+            "title": "1-2 Ay İçinde Başvuru Sonucu Bildirimi",
+            "description": "Başvuru değerlendirildikten sonra, genellikle 1-2 ay içinde başvuru sonucu bildirilmektedir."
         },
         "step8": {
-            "title": "Oturma izni belgesi verilir",
-            "description": "Başvuru onaylandıktan sonra, oturma izni belgesi başvuru sahibine teslim edilir."
+            "title": "İkamet İzni Belgesinin Verilmesi",
+            "description": "Başvuru onaylandıktan sonra, ikamet izni belgesi başvuru sahibine teslim edilmektedir."
         }
     },
     "FAQ": {
-        "title": "Sıkça Sorulan Sorular",
+        "title": "Macaristan Misafir Yatırımcı İkamet İzni Hakkında Sıkça Sorulan Sorular",
         "q1": {
-            "question": "Misafir Yatırımcı Vizesi için minimum yatırım miktarı nedir?",
-            "answer": "Misafir Yatırımcı Vizesi için minimum yatırım miktarı genellikle 250.000 Euro'dur. Bu yatırım, Macaristan'da onaylanmış yatırım fonları veya gayrimenkul gibi belirli alanlarda yapılmalıdır."
+            "question": "Macaristan Misafir Yatırımcı İkamet İzni için asgari yatırım tutarı nedir?",
+            "answer": "Asgari yatırım tutarı 250.000 Euro’dur."
         },
         "q2": {
-            "question": "Oturma izni ne kadar süre geçerlidir?",
-            "answer": "İlk oturma izni genellikle 2 yıl süreyle verilir. Daha sonra, belirli koşullar sağlandığında 3 yıl daha uzatılabilir. 5 yıl yasal ikamet sonrasında, daimi oturma izni veya vatandaşlık için başvurabilirsiniz."
+            "question": "İkamet izni ne kadar süreyle geçerlidir?",
+            "answer": "Oturma izni 10 yıl süreyle geçerlidir ve 10 yıl daha uzatılabilir."
         },
         "q3": {
             "question": "Aile üyelerimi de getirebilir miyim?",
-            "answer": "Evet, Misafir Yatırımcı Vizesi programı kapsamında eşiniz ve 18 yaşın altındaki çocuklarınız da sizinle birlikte oturma izni alabilir. Aile üyeleriniz için ek belgeler ve başvuru ücretleri gerekecektir."
+            "answer": "Evet, eşiniz ve 18 yaş altındaki çocuklarınız da sizinle birlikte ikamet izni alabilir."
         },
         "q4": {
-            "question": "Başvuru için hangi belgeler gereklidir?",
-            "answer": "Gerekli belgeler arasında pasaport, doğum belgesi, evlilik cüzdanı (varsa), adli sicil kaydı, sağlık sigortası, mali durum beyanı, banka hesap dökümleri ve yatırım planı bulunmaktadır. Tüm belgelerin Macarca'ya tercüme edilmesi ve apostil tasdiki yapılması gerekmektedir."
+            "question": "Başvuru için gerekli belgeler nelerdir?",
+            "answer": "Gerekli belgeler arasında geçerli pasaport, yatırım sertifikası, sağlık sigortası, temiz sabıka kaydı ve diğer destekleyici belgeler yer almaktadır."
         },
         "q5": {
-            "question": "Macaristan'da ne kadar süre kalmam gerekiyor?",
-            "answer": "Oturma izni sahibi olarak Macaristan'da minimum kalma süresi yılda 90 gündür. Ancak, daimi oturma izni veya vatandaşlık başvurusu için daha uzun süreler gerekebilir."
+            "question": "Başvuru sürecinde veya sonrasında başvuru sahibinin Macaristan’a gitmesi gerekiyor mu?",
+            "answer": "Evet, başvuru sahipleri yatırım işlemini tamamlamak ve biyometrik verilerini vermek için Macaristan’a gitmelidir."
         },
         "q6": {
-            "question": "Yatırımımı ne zaman geri çekebilirim?",
-            "answer": "Yatırımınızı genellikle oturma izninizin süresi dolmadan geri çekemezsiniz. Çoğu durumda, yatırımın minimum 5 yıl süreyle tutulması gerekmektedir. Erken çekim durumunda oturma izniniz iptal edilebilir."
+            "question": "İkamet iznini korumak için minimum ikamet şartı var mı?",
+            "answer": "Hayır, herhangi bir asgari ikamet şartı bulunmamaktadır."
         },
         "q7": {
-            "question": "Başvuru süreci ne kadar sürer?",
-            "answer": "Tüm belgeler eksiksiz olarak sunulduğunda, başvuru süreci genellikle 3-4 ay sürer. Bu süre, durum tespiti kontrolleri, başvuru işlemleri ve oturma izni onayını içerir."
+            "question": "Yatırımımı ne zaman geri çekebilirim?",
+            "answer": "İkamet iznini koruyabilmek için yatırım en az beş yıl süreyle tutulmalıdır."
         },
         "q8": {
-            "question": "Macaristan vatandaşlığına başvurabilir miyim?",
-            "answer": "Evet, 8 yıl yasal ikamet sonrasında Macaristan vatandaşlığına başvurabilirsiniz. Vatandaşlık başvurusu için Macarca dil sınavını geçmeniz ve Macaristan kültürü ve tarihi hakkında temel bilgilere sahip olmanız gerekmektedir."
+            "question": "Başvuru süreci ne kadar sürer?",
+            "answer": "Tüm belgeler eksiksiz olarak sunulduğunda, başvuru süreci genellikle 3-4 ay sürmektedir."
         },
         "q9": {
-            "question": "Schengen bölgesinde serbest dolaşım hakkım olacak mı?",
-            "answer": "Evet, Macaristan oturma izni ile Schengen bölgesinde 180 günlük herhangi bir dönemde 90 güne kadar vizesiz seyahat edebilirsiniz. Ancak, çalışma izni olmadan diğer Schengen ülkelerinde çalışamazsınız."
+            "question": "Macaristan vatandaşlığına başvurabilir miyim?",
+            "answer": "Evet, Macaristan’da 8 yıl yasal olarak ikamet ettikten sonra vatandaşlık başvurusunda bulunabilirsiniz."
         },
         "q10": {
-            "question": "Başvuru ücretleri ne kadardır?",
-            "answer": "Başvuru ücretleri kişi başına yaklaşık 110 Euro'dur. Buna ek olarak, biyometrik oturma izni kartı için yaklaşık 60 Euro ve danışmanlık hizmetleri için ek ücretler ödemeniz gerekebilir."
+            "question": "Bu ikamet izni ile Avrupa içinde serbestçe seyahat edebilir miyim?",
+            "answer": "Evet, bu ikamet izni Schengen Bölgesi içinde her 180 gün içinde 90 güne kadar vizesiz seyahat imkânı sağlamaktadır."
         },
-        "contactTitle": "Bizimle İletişime Geçin",
-        "contactDescription": "Danışmanlık almak için bizimle iletişime geçin.",
-        "contactButton": "WhatsApp üzerinden iletişime geç"
+        "q11": {
+            "question": "Başvuru ücretleri nelerdir?",
+            "answer": "Ücretlerle ilgili detaylı bilgi almak için Glokey ile iletişime geçebilirsiniz."
+        },
+        "contactTitle": "İletişim",
+        "contactDescription": "Danışmanlık için bize ulaşın",
+        "contactButton": "Whatsapp üzerinden iletişime geç"
     },
     "Partner": {
         "header": {
-            "title": "Glokey: Türkiye'deki Tek Yetkili Quantum Ortağı",
+            "title": "Glokey: Quantum’un Türkiye'deki Tek Yetkili Çözüm Ortağı",
             "subtitle": "Vatandaşlık ve yatırım yoluyla ikamet programlarında uzmanlaşmış çözüm ortağınız"
         },
         "content": {
@@ -190,17 +194,21 @@
     },
     "Contact": {
         "title": "İletişime Geçin",
-        "subtitle": "Sorularınız mı var? Yardımcı olmak için buradayız. Aşağıdaki formu kullanarak bize ulaşın.",
+        "subtitle": "Glokey, Quantum’un Macaristan Yatırımcı Vizesi Programı kapsamında Türkiye’deki resmi ve münhasır (exclusive) iş ortağıdır. Tüm başvuru süreci boyunca yerel destek ve danışmanlık hizmetleri Glokey tarafından sağlanmaktadır.",
         "formTitle": "Bize mesaj gönderin",
-        "formDescription": "Formu doldurun, en kısa sürede size geri döneceğiz.",
+        "formDescription": "Formu doldurun, size en kısa sürede geri dönüş yapalım.",
         "nameLabel": "İsim",
         "namePlaceholder": "İsminizi girin",
         "emailLabel": "E-posta",
         "emailPlaceholder": "E-posta adresinizi girin",
         "subjectLabel": "Konu",
-        "subjectPlaceholder": "Bu ne hakkında?",
+        "subjectPlaceholder": "Ne konuda danışmak istersiniz?",
         "messageLabel": "Mesaj",
         "messagePlaceholder": "Mesajınızı buraya yazın...",
+        "phoneLabel": "Telefon Numarası",
+        "phonePlaceholder": "Telefon numaranızı girin",
+        "countryLabel": "Ülke",
+        "countryPlaceholder": "Ülkenizi girin",
         "submitButton": "Mesaj Gönder",
         "submittingButton": "Gönderiliyor...",
         "formSuccessMessage": "Mesajınız başarıyla gönderildi!",
@@ -226,6 +234,7 @@
             "contact": "İLETİŞİM"
         },
         "contactInfo": "İletişim Bilgileri",
+        "contactInfoText": "Quantum’un Türkiye’deki Tek Yetkili Çözüm Ortağı ile İletişime Geçin",
         "contact": {
             "phoneLabel": "Telefon",
             "phone": "+90 212 962 01 01",

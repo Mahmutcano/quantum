@@ -4,38 +4,36 @@
         "description": "Quantum Trade Limited provides innovative investment and consultancy solutions to help you achieve your financial goals."
     },
     "Navbar": {
-        "home": "Home page",
+        "home": "HOME",
         "program": "PROGRAM",
-        "about": "About Us",
-        "partner": "Our Solution Partner",
-        "contact": "COMMUNICATION"
+        "about": "ABOUT US",
+        "partner": "OUR PARTNER",
+        "contact": "CONTACT"
     },
     "Hero": {
         "title": "Hungarian Guest Investor Session Program",
         "subtitle": "One of the EU's most affordable investment programs through residence permit programs.",
         "learnMore": "More information",
-        "contactUs": "Contact us",
+        "contactUs": "Contact us for a consultation",
         "imageAlt": "The main visual showing our program",
         "downloadBrochure": "Download the promotional brochure"
     },
     "Features": {
         "title": "Quantum Trade Limited",
-        "subtitle": "Your reliable partner in the Hungary Investor Visa Program",
-        "paragraph1": "Quantum Trade Limited is a reliable partner of SPRINT Asset Hungária Zrt, who manages SPRINT Real Estate Development and Investment Fund. ",
-        "paragraph2": "Quantum Trade Limited operates as a leading company in the field of International Investment and Consultancy. ",
+        "subtitle": "In partnership with our exclusive Turkish partner, Glokey, Quantum provides comprehensive support at every stage of your journey to obtaining a Hungarian Guest Investor Residence Permit. From initial consultation to final approval, we ensure a seamless experience by:",
         "support": {
             "title": "How does Quantum help you?",
-            "point1": "Consultancy about the requirements and advantages of the program",
-            "point2": "Collection and preparation of the necessary documents",
-            "point3": "Do not accompany you in the appointments in Hungary",
-            "point4": "Guidance and Document Delivery in the Application Process",
-            "point5": "Uninterrupted Support Before, In order and after the application",
-            "note": "With Quantum, you can manage this process safely and easily."
+            "point1": "Advising you on the program's requirements and benefits",
+            "point2": "Assisting in gathering and preparing all necessary documents",
+            "point3": "Accompanying you to appointments while in Hungary",
+            "point4": "Guiding you through the application process and submitting all required documentation",
+            "point5": "Offering dedicated support before, during, and after your application",
+            "note": "With Quantum by your side, you can navigate the residency process with confidence and ease."
         }
     },
     "AboutPreview": {
         "title": "Program",
-        "subtitle": "Learn more about our company, our team of experts in their fields and our vision for the future.",
+        "subtitle": "The Hungarian Investor Visa Program is a residence by investment initiative that allows foreign investors to obtain residence in Hungary by making an investment.",
         "summary": {
             "title": "Program summary",
             "description": "",
@@ -48,8 +46,8 @@
             "title": "Advantages",
             "description": "The Hungarian investor program offers many advantages.",
             "adv1": "Access to EU and Schengen region",
-            "adv2": "No minimum stay is obligatory",
-            "adv3": "Compliance for spouses and children",
+            "adv2": "No minimum stay requirement ",
+            "adv3": "Eligibility for spouse and children",
             "adv4": "Europe's lowest corporate tax rate (9%)",
             "adv5": "8 years of transition to post -residence citizenship",
             "imageAlt": "Advantages"
@@ -57,16 +55,16 @@
         "requirements": {
             "title": "Basic requirements",
             "description": "The basic conditions required to apply for the program:",
-            "req1": "No Judicial Registration",
-            "req2": "Proof of the money required for investment",
-            "req3": "Passing of Due Diligence)",
-            "req4": "Completion of the investment within the specified time",
-            "req5": "Protection of investment for at least 5 years",
+            "req1": "No criminal record",
+            "req2": "Have proof of funds for investment",
+            "req3": "Pass due diligence checks",
+            "req4": "Making investment within the specified timeframe",
+            "req5": "Investments must be maintained for at least 5 years",
             "imageAlt": "Requirements"
         },
         "fund": {
             "title": "Real Estate Investment Fund managed by SPRINT",
-            "description": "SPRINT Asset Hungária ZRT manages SPRINT Real Estate Development and Investment Fund. ",
+            "description": "SPRINT ASSET Hungária Zrt manages the SPRINT Real Estate Development and Investment Fund. The Fund was approved by the Hungarian Audit Authority on August 15, 2024.\n\nA prerequisite for attaining the Hungarian Guest Investor Residence Permit is making a minimum investment of EUR 250,000 into the SPRINT Real Estate Development and Investment Fund.\n\nAn investment certificate will be issued as proof of investment, and this proof of investment is necessary during the guest investor residence permit application procedures. The investment must be held for a minimum of five years in order to maintain the residence permit.",
             "imageAlt": "Fund information image"
         },
         "brosurTitle": "Informative brochure",
@@ -77,15 +75,15 @@
         "title": "Period",
         "description": "Steps of the Visa of Guest Investor and Sitting Permit Application Process",
         "step1": {
-            "title": "Get a Consulting Appointment",
+            "title": "Get a Consultation Appointment",
             "description": "Get a consultancy appointment to get detailed information about the process and to evaluate your personal situation."
         },
         "step2": {
-            "title": "Status Detection Controls are performed",
+            "title": "Due diligence checks are performed",
             "description": "The history and financial status of the applicant are examined and the required documents are checked."
         },
         "step3": {
-            "title": "Guest investor visa application is made",
+            "title": "Residence permit application is made",
             "description": "Application is made for a guest investor visa and the investment commitment is officially declared."
         },
         "step4": {
@@ -97,81 +95,85 @@
             "description": "After the investment is completed, the residence permit application is made officially."
         },
         "step6": {
-            "title": "Go to Hungary for biometric data",
+            "title": "Visit Hungary to provide biometrics.",
             "description": "To receive biometric data such as fingerprints and photographs, you need to go to Hungary again."
         },
         "step7": {
-            "title": "APPROVED IN 1-2 MONTHS",
+            "title": "Approval within 1-2 months.",
             "description": "After the application is evaluated, the application is usually notified within 1-2 months."
         },
         "step8": {
-            "title": "Sitting Permit Certificate is Given",
+            "title": "Residence permit is issued",
             "description": "After the application is approved, the residence permit certificate is submitted to the applicant."
         }
     },
     "FAQ": {
         "title": "Frequently asked questions",
         "q1": {
-            "question": "What is the minimum investment amount for a guest investor visa?",
-            "answer": "The minimum investment amount for a guest investor visa is usually 250,000 euros. "
+            "question": "What is the minimum investment amount for the Hungarian Guest Investor Residence Permit?",
+            "answer": "The minimum investment amount is EUR 250,000"
         },
         "q2": {
-            "question": "How long does the residence permit apply?",
-            "answer": "The first residence permit is usually given for 2 years. "
+            "question": "What is the validity of the Residence Permit?",
+            "answer": "The Residence Permit is valid for 10 years and can be renewed for another 10 years."
         },
         "q3": {
             "question": "Can I bring my family members?",
-            "answer": "Yes, within the scope of the guest investor visa program, your spouse and your children under the age of 18 can get a residence permit with you. "
+            "answer": "Yes, within the scope of the guest investor visa program, your spouse and your children under the age of 18 can get a residence permit with you."
         },
         "q4": {
-            "question": "Which documents are required for the application?",
-            "answer": "The required documents include passport, birth certificate, marriage certificate (if any), judicial registration, health insurance, financial state declaration, bank account breakdowns and investment plan. "
+            "question": "What are the required documents for the application?",
+            "answer": "The required documents include a valid passport, proof of investment, health insurance, a clean criminal record, and other supporting documents."
         },
         "q5": {
-            "question": "How long should I stay in Hungary?",
-            "answer": "As a residence permit, the minimum duration in Hungary is 90 days a year. "
+            "question": "Does the applicant have to visit Hungary during the application process or after?",
+            "answer": "Applicants must visit Hungary to complete their investment and submit biometrics during the application process."
         },
         "q6": {
-            "question": "When can I withdraw my investment?",
-            "answer": "You cannot withdraw your investment before your residence permit expires. "
+            "question": "Is there a minimum residence requirement to maintain the permit?",
+            "answer": "No, there is no minimum stay requirement."
         },
         "q7": {
-            "question": "How long does the application process take?",
-            "answer": "When all documents are presented completely, the application process usually takes 3-4 months. "
+            "question": "When can I withdraw my investment?",
+            "answer": "The investment must be held for a minimum of five years in order to maintain the residence permit."
         },
         "q8": {
-            "question": "Can I apply for Hungarian citizenship?",
-            "answer": "Yes, you can apply for Hungarian citizenship after 8 years of legal residence. "
+            "question": "How long does the application process take?",
+            "answer": "When all documents are presented completely, the application process usually takes 3-4 months."
         },
         "q9": {
-            "question": "Will I have the right to free movement in the Schengen region?",
-            "answer": "Yes, with a residence permit, you can travel in the Schengen area for up to 90 days without a visa in the Schengen region. "
+            "question": "Can I apply for Hungarian citizenship?",
+            "answer": "Yes, you can apply for Hungarian citizenship after 8 years of legal residence."
         },
         "q10": {
+            "question": "Can I travel freely within Europe with this residence permit?",
+            "answer": "Yes, this permit allows visa-free travel within the Schengen Zone for up to 90 days within a 180-day period."
+        },
+        "q11": {
             "question": "What are the application fees?",
-            "answer": "Application fees are approximately 110 euros per person. "
+            "answer": "You can contact us to get complete information about the fees involved."
         },
         "contactTitle": "Contact us",
         "contactDescription": "Contact us to get consultancy.",
-        "contactButton": "Contact you via WhatsApp"
+        "contactButton": "Contact us on WhatsApp"
     },
     "Partner": {
         "header": {
-            "title": "Glockey: The only authorized quantum partner in Türkiye",
-            "subtitle": "Your solution partner specializing in residence programs through citizenship and investment"
+            "title": "Glokey: Quantum’s Exclusive Partner in Türkiye",
+            "subtitle": "Your solution partner specialising in residence by investment programs."
         },
         "content": {
-            "paragraph1": "Glockey is proud to be the exclusive partner of Quantum, which provides comprehensive expertise to residence programs through citizenship and investment. ",
-            "paragraph2": "In addition, Glockey has played an important role in strengthening Turkish-Hungarian commercial relations over the years and encouraging cross-border investment and economic cooperation between the two countries.",
-            "paragraph3": "Glokey, the only partner of Quantum in Türkiye, works in close cooperation with the clients who want to get a guest residence permit and provides end -to -end support throughout the process. "
+            "paragraph1": "Glokey is proud to be the exclusive partner of Quantum in Türkiye, bringing extensive expertise in citizenship and residence by investment programs.",
+            "paragraph2": "Also, over the years, Glokey has played a key role in strengthening Turkish-Hungarian commercial relations, fostering cross-border investment and economic collaboration between the two nations.",
+            "paragraph3": "As Quantum’s exclusive partner in Türkiye, Glokey works closely with clients seeking to obtain the Hungarian Guest Residence Permit, providing end-to-end support throughout the process."
         },
         "steps": {
-            "title": "How does Glockey work?",
-            "step1": "A comprehensive consultancy is made to understand your needs and goals.",
-            "step2": "All information is provided about the private investment program",
-            "step3": "Support is given in the collection and arrangement of the necessary documents",
-            "step4": "All steps in Türkiye are carried out smoothly",
-            "step5": "Transactions in Hungary are carried out with Quantum"
+            "title": "How does Glokey work with you?",
+            "step1": "A comprehensive consultation is conducted to understand your needs and goals.",
+            "step2": "Detailed information is provided about the residence by investment program.",
+            "step3": "Support is offered for the collection and organization of the required documents.",
+            "step4": "All procedures in Türkiye are managed seamlessly.",
+            "step5": "Transactions in Hungary are carried out in cooperation with Quantum."
         },
         "cta": {
             "title": "For more information",
@@ -192,15 +194,19 @@
         "title": "Contact",
         "subtitle": "Do you have questions? ",
         "formTitle": "Send us a message",
-        "formDescription": "Fill in the form, we will return to you as soon as possible.",
+        "formDescription": "Fill in the form and we will get back to you.",
         "nameLabel": "Name",
         "namePlaceholder": "Enter your name",
         "emailLabel": "E-mail",
         "emailPlaceholder": "Enter your e-mail address",
         "subjectLabel": "Subject",
-        "subjectPlaceholder": "What about this?",
+        "subjectPlaceholder": "What is the subject of your inquiry?",
         "messageLabel": "Message",
         "messagePlaceholder": "Write your message here ...",
+        "phoneLabel": "Phone Number",
+        "phonePlaceholder": "Enter your phone number",
+        "countryLabel": "Country",
+        "countryPlaceholder": "Enter your country",
         "submitButton": "Send message",
         "submittingButton": "Posted ...",
         "formSuccessMessage": "Your message has been sent successfully!",
@@ -217,22 +223,23 @@
     "Footer": {
         "logo": "Company name",
         "description": "We help you secure your future with sustainable and innovative investments and offer strategic solutions that support your financial success.",
-        "quickLinks": "Quick connections",
+        "quickLinks": "Quick Links",
         "nav": {
-            "home": "Home page",
-            "about": "About Us",
+            "home": "HOME",
+            "about": "ABOUT US",
             "program": "PROGRAM",
-            "vision": "Our Solution Partner",
-            "contact": "COMMUNICATION"
+            "vision": "OUR PARTNER",
+            "contact": "CONTACT"
         },
-        "contactInfo": "Contact Information",
+        "contactInfo": "Contact",
+        "contactInfoText": "Contact Quantum’s Exclusive Partner Located in Türkiye",
         "contact": {
             "phoneLabel": "Telephone",
             "phone": "+90 212 962 01 01",
             "emailLabel": "E-mail",
             "email": "info@glokey.com.tr",
             "addressLabel": "Address",
-            "address": "Kuruçeşme Mahallesi, Öksüz Çocuk Street No: 6,\n",
+            "address": "Kuruçeşme Mahallesi, Öksüz Çocuk Sokak No:6, Kuruçeşme, Beşiktaş/İstanbul 34345 Türkiye",
             "workingHoursLabel": "Working hours",
             "workingHours": "Monday - Friday: 9:00 - 19:00\n"
         },
