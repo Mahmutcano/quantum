@@ -38,8 +38,12 @@ export function LanguageSwitcher() {
   const currentLanguage = languages.find(lang => lang.code === locale) || languages[0]
 
   const handleLanguageChange = (language: Language) => {
-    router.replace(pathname, { locale: language.code })
-  }
+    const isDefaultLocale = language.code === AppConfig.defaultLocale;
+  
+    router.replace(pathname, {
+      locale: isDefaultLocale ? undefined : language.code,
+    });
+  };  
 
   return (
     <DropdownMenu>
