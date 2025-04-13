@@ -1,6 +1,6 @@
 "use client"
 
-import { useLocale, useTranslations } from 'next-intl'
+import { useLocale } from 'next-intl'
 import { Check, ChevronDown, Globe } from 'lucide-react'
 import { AppConfig } from '@/utils/AppConfig'
 
@@ -31,7 +31,6 @@ const languages: Language[] = [
 
 
 export function LanguageSwitcher() {
-  const t = useTranslations('LanguageSwitcher')
   const locale = useLocale()
   const router = useRouter()
   const pathname = usePathname()
@@ -41,8 +40,6 @@ export function LanguageSwitcher() {
   const handleLanguageChange = (language: Language) => {
     router.replace(pathname, { locale: language.code })
   }
-
-  console.log(t);
 
   return (
     <DropdownMenu>

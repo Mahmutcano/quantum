@@ -6,7 +6,7 @@ import { routing } from '@/libs/i18nNavigation';
 import { ThemeProvider } from '@/components/provider/theme-provider';
 import { Navbar } from '@/components/common/navbar';
 import { Footer } from '@/components/common/footer';
-import { getTranslations } from 'next-intl/server';
+import { getMessages, getTranslations } from 'next-intl/server';
 import { WhatsAppButton } from '@/components/common/whatsapp-button';
 
 type IIndexProps = {
@@ -44,18 +44,23 @@ export default async function LocaleLayout({
   params: Promise<{ locale: string }>;
 }>) {
 
+
+
   // Ensure that the incoming `locale` is valid
   const { locale } = await params;
   if (!hasLocale(routing.locales, locale)) {
     notFound();
   }
 
+  const messages = await getMessages({ locale }).catch(() => notFound());
+
+
   return (
     <html lang={locale} suppressHydrationWarning dir={locale === "ar" ? "rtl" : "ltr"}>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <NextIntlClientProvider>
+        <NextIntlClientProvider messages={messages} locale={locale}>
           <ThemeProvider
             attribute="class"
             defaultTheme="system"
