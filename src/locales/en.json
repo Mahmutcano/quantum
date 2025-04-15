@@ -7,11 +7,11 @@
         "home": "HOME",
         "program": "PROGRAM",
         "about": "ABOUT US",
-        "partner": "OUR PARTNER",
+        "partner": "SOLUTION PARTNER",
         "contact": "CONTACT"
     },
     "Hero": {
-        "title": "Hungarian Guest Investor Session Program",
+        "title": "Hungarian Guest Investor Residence Permit Program",
         "subtitle": "One of the EU's most affordable investment programs through residence permit programs.",
         "learnMore": "More information",
         "contactUs": "Contact us for a consultation",
@@ -20,7 +20,7 @@
     },
     "Features": {
         "title": "Quantum Trade Limited",
-        "subtitle": "In partnership with our exclusive Turkish partner, Glokey, Quantum provides comprehensive support at every stage of your journey to obtaining a Hungarian Guest Investor Residence Permit. From initial consultation to final approval, we ensure a seamless experience by:",
+        "subtitle": "In partnership with our exclusive Turkish partner, Glokey, Quantum provides comprehensive support at every stage of your journey to obtaining a Hungarian Guest Investor Residence Permit. From initial consultation to final approval, we ensure a seamless experience for you",
         "support": {
             "title": "How does Quantum help you?",
             "point1": "Advising you on the program's requirements and benefits",
@@ -72,8 +72,8 @@
         "downloadBrochure": "Download the brochure"
     },
     "Process": {
-        "title": "Period",
-        "description": "Steps of the Visa of Guest Investor and Sitting Permit Application Process",
+        "title": "Process",
+        "description": "Steps for attaining the Hungarian Guest Investor Residence Permit",
         "step1": {
             "title": "Get a Consultation Appointment",
             "description": "Get a consultancy appointment to get detailed information about the process and to evaluate your personal situation."
@@ -91,12 +91,12 @@
             "description": "It is necessary to travel to Hungary to complete investment transactions and sign the necessary documents."
         },
         "step5": {
-            "title": "Sitting Permit Application is made",
+            "title": "Residence Permit Application is made",
             "description": "After the investment is completed, the residence permit application is made officially."
         },
         "step6": {
-            "title": "Visit Hungary to provide biometrics.",
-            "description": "To receive biometric data such as fingerprints and photographs, you need to go to Hungary again."
+            "title": "Visit Hungary to provide biometrics",
+            "description": "To provide biometric data such as fingerprints and photographs, you need to visit Hungary."
         },
         "step7": {
             "title": "Approval within 1-2 months.",
@@ -154,18 +154,18 @@
             "answer": "You can contact us to get complete information about the fees involved."
         },
         "contactTitle": "Contact us",
-        "contactDescription": "Contact us to get consultancy.",
+        "contactDescription": "Glokey is the official and exclusive solution partner of Quantum in Türkiye for the Hungary Guest Investor Residence Permit Program. Local support and consultancy services throughout the entire application process are provided by Glokey..",
         "contactButton": "Contact us on WhatsApp"
     },
     "Partner": {
         "header": {
-            "title": "Glokey: Quantum’s Exclusive Partner in Türkiye",
+            "title": "Glokey: Quantum’s Exclusive Solution Partner in Türkiye",
             "subtitle": "Your solution partner specialising in residence by investment programs."
         },
         "content": {
-            "paragraph1": "Glokey is proud to be the exclusive partner of Quantum in Türkiye, bringing extensive expertise in citizenship and residence by investment programs.",
+            "paragraph1": "Glokey is proud to be the exclusive solution partner of Quantum in Türkiye, bringing extensive expertise in citizenship and residence by investment programs. With several years of experience, Glokey has successfully assisted high-net-worth individuals and investors in navigating the complexities of global migration programs, ensuring seamless transitions to new opportunities abroad.",
             "paragraph2": "Also, over the years, Glokey has played a key role in strengthening Turkish-Hungarian commercial relations, fostering cross-border investment and economic collaboration between the two nations.",
-            "paragraph3": "As Quantum’s exclusive partner in Türkiye, Glokey works closely with clients seeking to obtain the Hungarian Guest Residence Permit, providing end-to-end support throughout the process."
+            "paragraph3": "As Quantum’s exclusive solution partner in Türkiye, Glokey works closely with clients seeking to obtain the Hungarian Guest Residence Permit, providing end-to-end support throughout the process. From initial consultation to final approval, Glokey ensures that each client receives personalized guidance, facilitating a smooth and efficient application journey.With its extensive experience and strong collaboration with Quantum, Glokey is committed to turning its clients' aspirations into reality."
         },
         "steps": {
             "title": "How does Glokey work with you?",

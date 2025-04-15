@@ -20,7 +20,7 @@
     },
     "Features": {
         "title": "Quantum Trade Limited",
-        "subtitle": "Özel Türk ortağımız Glokey ile iş birliği içinde, Quantum Macaristan Misafir Yatırımcı İkamet İzni başvurunuzun her aşamasında kapsamlı destek sunar. İlk danışmanlıktan nihai onaya kadar, süreci sorunsuz bir şekilde tamamlamanızı sağlamak için:",
+        "subtitle": "Türkiye’deki münhasır çözüm ortağımız Özel Türk ortağımız Glokey ile iş birliği içinde, Quantum Macaristan Misafir Yatırımcı İkamet İzni başvurunuzun her aşamasında kapsamlı destek sunar. İlk danışmanlıktan nihai onaya kadar, süreci sorunsuz bir şekilde tamamlamanızı sağlamak için:",
         "paragraph1": "Quantum Trade Limited, SPRINT Gayrimenkul Geliştirme ve Yatırım Fonu'nu yöneten SPRINT ASSET Hungária Zrt'nin güvenilir bir ortağıdır. Fon, yatırımcılara nitelikli yatırımlarla Macar Misafir Yatırımcı Oturma İzni alma fırsatı sunar. Misafir Yatırımcı Oturma İzni programı, yatırım yoluyla ikamet programına hak kazanabilmek için fona en az 250.000 EUR tutarında yatırım yapılmasını gerektirmektedir.",
         "paragraph2": "Quantum Trade Limited, uluslararası yatırım ve danışmanlık alanında öncü bir şirket olarak faaliyet göstermektedir. Şirket, yenilikçi ve etkili çözümler sunarak müşterilerinin yatırım hedeflerine ulaşmalarına yardımcı olmayı amaçlamaktadır. Quantum, dünya çapındaki müşterilerine yatırım danışmanlığı hizmetleri sunan uzun yıllara dayanan tecrübeye sahiptir. Programın başlangıcından itibaren birçok yatırımcıya Macar Misafir Yatırımcı Oturma İzni almalarında yardımcı olduk.",
         "support": {
@@ -82,11 +82,11 @@
         },
         "step2": {
             "title": "Durum Tespiti Kontrolleri Gerçekleştirilir",
-            "description": "Başvuru sahibinin sicili ve mali durumu incelenir, gerekli belgeler kontrol edilir."
+            "description": "Başvuru sahibinin sicili ve mali durumu incelenir, gerekli belgeler kontrol edilmektedir."
         },
         "step3": {
             "title": "Misafir Yatırımcı Vizesi Başvurusu Yapılır",
-            "description": "Misafir Yatırımcı Vizesi için başvuru yapılır ve yatırım taahhüdü resmi olarak beyan edilir."
+            "description": "Misafir Yatırımcı Vizesi için başvuru yapılır ve yatırım taahhüdü resmi olarak beyan edilmektedir."
         },
         "step4": {
             "title": "Yatırımın Tamamlanması İçin Macaristan’a Seyahat Edilir",
@@ -94,7 +94,7 @@
         },
         "step5": {
             "title": "İkamet İzni Başvurusu Yapılır",
-            "description": "Yatırım işlemleri tamamlandıktan sonra, ikamet izni başvurusu resmi olarak yapılır."
+            "description": "Yatırım işlemleri tamamlandıktan sonra, ikamet izni başvurusu resmi olarak yapılmaktadır."
         },
         "step6": {
             "title": "Biyometrik Verilerin Sunulması İçin Macaristan’a Seyahat",
@@ -194,7 +194,7 @@
     },
     "Contact": {
         "title": "İletişime Geçin",
-        "subtitle": "Glokey, Quantum’un Macaristan Yatırımcı Vizesi Programı kapsamında Türkiye’deki resmi ve münhasır (exclusive) iş ortağıdır. Tüm başvuru süreci boyunca yerel destek ve danışmanlık hizmetleri Glokey tarafından sağlanmaktadır.",
+        "subtitle": "Glokey, Quantum’un Macaristan Yatırımcı Vizesi Programı kapsamında Türkiye’deki resmi ve münhasır (exclusive) çözüm ortağıdır. Tüm başvuru süreci boyunca yerel destek ve danışmanlık hizmetleri Glokey tarafından sağlanmaktadır.",
         "formTitle": "Bize mesaj gönderin",
         "formDescription": "Formu doldurun, size en kısa sürede geri dönüş yapalım.",
         "nameLabel": "İsim",

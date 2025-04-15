@@ -23,8 +23,8 @@ export default function PartnerPage() {
       {/* Main Content */}
       <main className="container mx-auto px-4 py-12">
         <div className="max-w-4xl mx-auto">
-          <div className="flex justify-center items-start">
-          <img src="/images/image.png" alt="partner" />
+          <div className="flex justify-center items-start mb-4">
+          <img src="/images/glockey.png" alt="partner" width={400} height={400} />
           </div>
           <div className="prose prose-slate max-w-none">
             <p className="text-lg leading-relaxed mb-6">{t("content.paragraph1")}</p>
