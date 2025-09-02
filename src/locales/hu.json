@@ -213,11 +213,11 @@
     "formErrorMessage": "Hiba történt egy űrlap elküldésekor",
     "contactInfo": "Kapcsolattartási adatok",
     "addressTitle": "Cím",
-    "address": "Kuruçeşme Mahallesi, Ökzi Çocuk utca száma: 6,\n",
+    "address": "İstanbul",
     "emailTitle": "Email",
     "email": "info@lokey.com.tr",
     "phoneTitle": "Telefon",
-    "phone": "+90 212 962 01 01",
+    "phone": "212 000 00 00",
     "whatsappButton": "Kommunikáció a WhatsApp segítségével"
   },
   "Footer": {
@@ -235,11 +235,11 @@
     "contactInfoText": "Vegye fel a kapcsolatot a Quantum exkluzív partnerével, amely Türkiye -ben található",
     "contact": {
       "phoneLabel": "Telefon",
-      "phone": "+90 212 962 01 01",
+      "phone": "212 000 00 00",
       "emailLabel": "Email",
       "email": "info@lokey.com.tr",
       "addressLabel": "Cím",
-      "address": "Kuruçeşme Mahallesi, Öksüz Çocuk Sokak szám: 6, Kuruçeşme, Beşiktaş/İstambul 34345 Türkiye",
+      "address": "İstanbul",
       "workingHoursLabel": "Munkaidő",
       "workingHours": "Hétfő - péntek: 9:00 - 19:00\n"
     },

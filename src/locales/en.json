@@ -213,11 +213,11 @@
         "formErrorMessage": "Error occurred when sending a form",
         "contactInfo": "Contact Information",
         "addressTitle": "Address",
-        "address": "Kuruçeşme Mahallesi, Öksüz Çocuk Street No: 6,\n",
+        "address": "İstanbul",
         "emailTitle": "E-mail",
         "email": "info@kayakey.com.tr",
         "phoneTitle": "Telephone",
-        "phone": "+90 212 962 01 01",
+        "phone": "212 000 00 00",
         "whatsappButton": "Communication with WhatsApp"
     },
     "Footer": {
@@ -235,11 +235,11 @@
         "contactInfoText": "Contact Quantum’s Exclusive Partner Located in Türkiye",
         "contact": {
             "phoneLabel": "Telephone",
-            "phone": "+90 212 962 01 01",
+            "phone": "212 000 00 00",
             "emailLabel": "E-mail",
             "email": "info@kayakey.com.tr",
             "addressLabel": "Address",
-            "address": "Kuruçeşme Mahallesi, Öksüz Çocuk Sokak No:6, Kuruçeşme, Beşiktaş/İstanbul 34345 Türkiye",
+            "address": "İstanbul",
             "workingHoursLabel": "Working hours",
             "workingHours": "Monday - Friday: 9:00 - 19:00\n"
         },
