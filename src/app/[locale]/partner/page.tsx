@@ -1,9 +1,6 @@
 "use client";
 
-import Link from "next/link";
 import { useTranslations } from "next-intl";
-
-import { Card, CardContent } from "@/components/ui/card";
 
 export default function PartnerPage() {
   const t = useTranslations("Partner");
@@ -63,10 +60,7 @@ export default function PartnerPage() {
                 www.kayakey.com.tr
               </Link>
             </p>
-            {/* <Button size="lg" className="bg-slate-900 hover:bg-slate-800">
-              {t("cta.button")}
-              <ArrowRight className="ml-2 h-4 w-4" />
-            </Button> */}
+            Button removed
           </div>
           */}
         </div>
