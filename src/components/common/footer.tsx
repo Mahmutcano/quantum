@@ -49,7 +49,8 @@ export function Footer() {
           <div>
             <h3 className="font-medium text-lg mb-2">{t("contactInfo")}</h3>
             <p className="mb-2">{t("contactInfoText")}</p>
-            <Image className="mt-6 mb-6" src="/images/glockey.png" width={100} height={100} alt="Glokey" />
+            {/* <Image className="mt-6 mb-6" src="/images/glockey.png" width={100} height={100} alt="Glokey" /> */}
+            {/* Glokey iletişim bilgileri geçici olarak kaldırıldı
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li>
                 <strong>{t("contact.phoneLabel")}:</strong><br />
@@ -72,6 +73,7 @@ export function Footer() {
                 <span className="whitespace-pre-line">{t("contact.workingHours")}</span>
               </li>
             </ul>
+            */}
           </div>
 
           {/* Sosyal Medya */}

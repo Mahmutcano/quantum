@@ -23,16 +23,16 @@ export default function PartnerPage() {
       {/* Main Content */}
       <main className="container mx-auto px-4 py-12">
         <div className="max-w-4xl mx-auto">
-          <div className="flex justify-center items-start mb-4">
+          {/* <div className="flex justify-center items-start mb-4">
           <img src="/images/glockey.png" alt="partner" width={400} height={400} />
-          </div>
+          </div> */}
           <div className="prose prose-slate max-w-none">
             <p className="text-lg leading-relaxed mb-6">{t("content.paragraph1")}</p>
             <p className="text-lg leading-relaxed mb-6">{t("content.paragraph2")}</p>
             <p className="text-lg leading-relaxed mb-10">{t("content.paragraph3")}</p>
           </div>
 
-          {/* How Glokey Works */}
+          {/* Glokey adımları geçici olarak kaldırıldı
           <div className="mt-16">
             <h2 className="text-2xl md:text-3xl font-bold mb-8 text-center">{t("steps.title")}</h2>
 
@@ -53,8 +53,9 @@ export default function PartnerPage() {
               ))}
             </div>
           </div>
+          */}
 
-          {/* CTA Section */}
+          {/* CTA Section geçici olarak kaldırıldı
           <div className="mt-16 bg-slate-50 rounded-xl p-8 text-center">
             <h3 className="text-xl font-bold mb-4">{t("cta.title")}</h3>
             <p className="mb-6">
@@ -67,6 +68,7 @@ export default function PartnerPage() {
               <ArrowRight className="ml-2 h-4 w-4" />
             </Button> */}
           </div>
+          */}
         </div>
       </main>
     </div>
