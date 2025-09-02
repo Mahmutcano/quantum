@@ -49,8 +49,8 @@ export function Footer() {
           <div>
             <h3 className="font-medium text-lg mb-2">{t("contactInfo")}</h3>
             <p className="mb-2">{t("contactInfoText")}</p>
-            {/* <Image className="mt-6 mb-6" src="/images/glockey.png" width={100} height={100} alt="Glokey" /> */}
-            {/* Glokey iletişim bilgileri geçici olarak kaldırıldı
+            {/* <Image className="mt-6 mb-6" src="/images/kayakey.png" width={100} height={100} alt="Kayakey" /> */}
+            {/* Kayakey iletişim bilgileri geçici olarak kaldırıldı
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li>
                 <strong>{t("contact.phoneLabel")}:</strong><br />
@@ -60,7 +60,7 @@ export function Footer() {
               </li>
               <li>
                 <strong>{t("contact.emailLabel")}:</strong><br />
-                <a href="mailto:info@glokey.com.tr" className="text-primary hover:underline">
+                <a href="mailto:info@kayakey.com.tr" className="text-primary hover:underline">
                   {t("contact.email")}
                 </a>
               </li>

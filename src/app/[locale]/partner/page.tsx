@@ -24,7 +24,7 @@ export default function PartnerPage() {
       <main className="container mx-auto px-4 py-12">
         <div className="max-w-4xl mx-auto">
           {/* <div className="flex justify-center items-start mb-4">
-          <img src="/images/glockey.png" alt="partner" width={400} height={400} />
+          <img src="/images/kayakey.png" alt="partner" width={400} height={400} />
           </div> */}
           <div className="prose prose-slate max-w-none">
             <p className="text-lg leading-relaxed mb-6">{t("content.paragraph1")}</p>
@@ -32,7 +32,7 @@ export default function PartnerPage() {
             <p className="text-lg leading-relaxed mb-10">{t("content.paragraph3")}</p>
           </div>
 
-          {/* Glokey adımları geçici olarak kaldırıldı
+          {/* Kayakey adımları geçici olarak kaldırıldı
           <div className="mt-16">
             <h2 className="text-2xl md:text-3xl font-bold mb-8 text-center">{t("steps.title")}</h2>
 
@@ -59,8 +59,8 @@ export default function PartnerPage() {
           <div className="mt-16 bg-slate-50 rounded-xl p-8 text-center">
             <h3 className="text-xl font-bold mb-4">{t("cta.title")}</h3>
             <p className="mb-6">
-              <Link href="https://www.glokey.com.tr" className="text-slate-900 font-medium hover:underline">
-                www.glokey.com.tr
+              <Link href="https://www.kayakey.com.tr" className="text-slate-900 font-medium hover:underline">
+                www.kayakey.com.tr
               </Link>
             </p>
             {/* <Button size="lg" className="bg-slate-900 hover:bg-slate-800">
